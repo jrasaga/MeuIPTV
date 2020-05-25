@@ -68,6 +68,622 @@
     <title lang="pt">Sem Rastro</title>
     <category lang="pt">Séries/Investigação</category>
   </programme>
+  <programme start="20200526001500 -0300" stop="20200526011500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200526011500 -0300" stop="20200526021500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526021500 -0300" stop="20200526031500 -0300" channel="AXN">
+    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200526031500 -0300" stop="20200526041000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200526041000 -0300" stop="20200526050500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200526050500 -0300" stop="20200526060000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200526060000 -0300" stop="20200526070000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526070000 -0300" stop="20200526080000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526080000 -0300" stop="20200526090000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526090000 -0300" stop="20200526100000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526100000 -0300" stop="20200526110000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526110000 -0300" stop="20200526115500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526115500 -0300" stop="20200526125000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526125000 -0300" stop="20200526134500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526134500 -0300" stop="20200526144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200526144000 -0300" stop="20200526153500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526153500 -0300" stop="20200526163000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526163000 -0300" stop="20200526172500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526172500 -0300" stop="20200526182000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526182000 -0300" stop="20200526191500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526191500 -0300" stop="20200526200500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526200500 -0300" stop="20200526210500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526210500 -0300" stop="20200526220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200526225500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526225500 -0300" stop="20200526235500 -0300" channel="AXN">
+    <title lang="pt">Contracapa</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200526235500 -0300" stop="20200527005000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527005000 -0300" stop="20200527014500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527014500 -0300" stop="20200527024000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200527024000 -0300" stop="20200527033000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527033000 -0300" stop="20200527042000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527042000 -0300" stop="20200527051000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527051000 -0300" stop="20200527060000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527060000 -0300" stop="20200527070000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527070000 -0300" stop="20200527080000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527080000 -0300" stop="20200527090000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527090000 -0300" stop="20200527100000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527100000 -0300" stop="20200527110000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527110000 -0300" stop="20200527115500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527115500 -0300" stop="20200527125000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527125000 -0300" stop="20200527134500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527134500 -0300" stop="20200527144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200527144000 -0300" stop="20200527153500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527153500 -0300" stop="20200527163000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527163000 -0300" stop="20200527172500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527172500 -0300" stop="20200527182000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527182000 -0300" stop="20200527191500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527191500 -0300" stop="20200527200500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527200500 -0300" stop="20200527210500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527210500 -0300" stop="20200527220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200527220000 -0300" stop="20200527225000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527225000 -0300" stop="20200527232000 -0300" channel="AXN">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200527232000 -0300" stop="20200528001000 -0300" channel="AXN">
+    <title lang="pt">Em Nome da Justiça</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200528001000 -0300" stop="20200528010000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528010000 -0300" stop="20200528015000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528015000 -0300" stop="20200528024000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200528024000 -0300" stop="20200528033000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528033000 -0300" stop="20200528042000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528042000 -0300" stop="20200528051000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528051000 -0300" stop="20200528060000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528060000 -0300" stop="20200528070000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528070000 -0300" stop="20200528080000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528080000 -0300" stop="20200528090000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528090000 -0300" stop="20200528100000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528100000 -0300" stop="20200528110000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528110000 -0300" stop="20200528115500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528115500 -0300" stop="20200528125000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528125000 -0300" stop="20200528134500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528134500 -0300" stop="20200528144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200528144000 -0300" stop="20200528153500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528153500 -0300" stop="20200528163000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528163000 -0300" stop="20200528172500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528172500 -0300" stop="20200528182000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528182000 -0300" stop="20200528191500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528191500 -0300" stop="20200528200500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528200500 -0300" stop="20200528210500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528210500 -0300" stop="20200528220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200528220000 -0300" stop="20200528225500 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528225500 -0300" stop="20200528234500 -0300" channel="AXN">
+    <title lang="pt">Seal Team</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528234500 -0300" stop="20200529003500 -0300" channel="AXN">
+    <title lang="pt">Seal Team</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529003500 -0300" stop="20200529013000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529013000 -0300" stop="20200529022500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200529022500 -0300" stop="20200529032000 -0300" channel="AXN">
+    <title lang="pt">The Blacklist</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529032000 -0300" stop="20200529041500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529041500 -0300" stop="20200529051000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529051000 -0300" stop="20200529060000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529060000 -0300" stop="20200529070000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529070000 -0300" stop="20200529080000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529080000 -0300" stop="20200529090000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529090000 -0300" stop="20200529100000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529100000 -0300" stop="20200529110000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529110000 -0300" stop="20200529115500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529115500 -0300" stop="20200529125000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529125000 -0300" stop="20200529134500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Nova Orleans</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529134500 -0300" stop="20200529144000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200529144000 -0300" stop="20200529153500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529153500 -0300" stop="20200529163000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. NY</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529163000 -0300" stop="20200529172500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529172500 -0300" stop="20200529182000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529182000 -0300" stop="20200529191500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529191500 -0300" stop="20200529200500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529200500 -0300" stop="20200529210500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529210500 -0300" stop="20200529220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200529220000 -0300" stop="20200529225500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529225500 -0300" stop="20200529235500 -0300" channel="AXN">
+    <title lang="pt">Contracapa</title>
+    <category lang="pt">Séries/Ficção</category>
+  </programme>
+  <programme start="20200529235500 -0300" stop="20200530005000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530005000 -0300" stop="20200530014500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200530014500 -0300" stop="20200530023500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200530023500 -0300" stop="20200530033000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530033000 -0300" stop="20200530042000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200530042000 -0300" stop="20200530051000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200530051000 -0300" stop="20200530060000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200530060000 -0300" stop="20200530065500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200530065500 -0300" stop="20200530075500 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200530075500 -0300" stop="20200530085000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200530085000 -0300" stop="20200530094400 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200530094400 -0300" stop="20200530103900 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530103900 -0300" stop="20200530113500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530113500 -0300" stop="20200530122900 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530122900 -0300" stop="20200530132400 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530132400 -0300" stop="20200530141900 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530141900 -0300" stop="20200530151500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530151500 -0300" stop="20200530161000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530161000 -0300" stop="20200530170500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530170500 -0300" stop="20200530180000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530185000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530185000 -0300" stop="20200530194500 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530194500 -0300" stop="20200530204000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200530204000 -0300" stop="20200530230000 -0300" channel="AXN">
+    <title lang="pt">O Protetor</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530230000 -0300" stop="20200530233000 -0300" channel="AXN">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200530233000 -0300" stop="20200531000000 -0300" channel="AXN">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200531000000 -0300" stop="20200531005500 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531005500 -0300" stop="20200531015000 -0300" channel="AXN">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531015000 -0300" stop="20200531024000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200531024000 -0300" stop="20200531033000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200531033000 -0300" stop="20200531042000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200531042000 -0300" stop="20200531051000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200531051000 -0300" stop="20200531060000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200531060000 -0300" stop="20200531070000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531070000 -0300" stop="20200531080000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531080000 -0300" stop="20200531090000 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531090000 -0300" stop="20200531095500 -0300" channel="AXN">
+    <title lang="pt">C.S.I</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531095500 -0300" stop="20200531105000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531105000 -0300" stop="20200531114500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531114500 -0300" stop="20200531124000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531124000 -0300" stop="20200531133500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531133500 -0300" stop="20200531143000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531143000 -0300" stop="20200531152500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531152500 -0300" stop="20200531162000 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531162000 -0300" stop="20200531171500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531171500 -0300" stop="20200531181500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531181500 -0300" stop="20200531200500 -0300" channel="AXN">
+    <title lang="pt">Xxx 2 - Estado de Emergência</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531200500 -0300" stop="20200531210000 -0300" channel="AXN">
+    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200531210000 -0300" stop="20200531220000 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531220000 -0300" stop="20200601001500 -0300" channel="AXN">
+    <title lang="pt">Triplo X</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
   <programme start="20200525175500 -0300" stop="20200525192000 -0300" channel="AMC">
     <title lang="pt">Cada Vez Mais Longe</title>
     <category lang="pt">Filme/Drama</category>
@@ -82,6 +698,470 @@
   </programme>
   <programme start="20200525223000 -0300" stop="20200526002000 -0300" channel="AMC">
     <title lang="pt">Os Mercenários 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526002000 -0300" stop="20200526021500 -0300" channel="AMC">
+    <title lang="pt">Headhunters</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200526021500 -0300" stop="20200526040000 -0300" channel="AMC">
+    <title lang="pt">Tudo Por Um Bebê</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526040000 -0300" stop="20200526053000 -0300" channel="AMC">
+    <title lang="pt">Chloe e Theo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526053000 -0300" stop="20200526063000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200526063000 -0300" stop="20200526070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526070000 -0300" stop="20200526073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526073000 -0300" stop="20200526080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526080000 -0300" stop="20200526083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526083000 -0300" stop="20200526090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526090000 -0300" stop="20200526093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526093000 -0300" stop="20200526100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526100000 -0300" stop="20200526103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526103000 -0300" stop="20200526110000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526110000 -0300" stop="20200526115000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200526115000 -0300" stop="20200526122000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200526122000 -0300" stop="20200526143500 -0300" channel="AMC">
+    <title lang="pt">O Lado Bom da Vida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526143500 -0300" stop="20200526164000 -0300" channel="AMC">
+    <title lang="pt">Agente do Futuro</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200526164000 -0300" stop="20200526183000 -0300" channel="AMC">
+    <title lang="pt">Hancock</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526183000 -0300" stop="20200526203000 -0300" channel="AMC">
+    <title lang="pt">#nudes</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526203000 -0300" stop="20200526223000 -0300" channel="AMC">
+    <title lang="pt">As Panteras: Detonando</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526223000 -0300" stop="20200527003500 -0300" channel="AMC">
+    <title lang="pt">6 Balas</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200527003500 -0300" stop="20200527030000 -0300" channel="AMC">
+    <title lang="pt">Guerra ao Terror</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527030000 -0300" stop="20200527050500 -0300" channel="AMC">
+    <title lang="pt">Stop-Loss - A Lei da Guerra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527050500 -0300" stop="20200527070500 -0300" channel="AMC">
+    <title lang="pt">Agente do Futuro</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200527070500 -0300" stop="20200527073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527073000 -0300" stop="20200527080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527080000 -0300" stop="20200527083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527083000 -0300" stop="20200527090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527090000 -0300" stop="20200527093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527093000 -0300" stop="20200527100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527100000 -0300" stop="20200527103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527103000 -0300" stop="20200527110000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527110000 -0300" stop="20200527115500 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200527115500 -0300" stop="20200527122500 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527122500 -0300" stop="20200527142500 -0300" channel="AMC">
+    <title lang="pt">As Panteras: Detonando</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527142500 -0300" stop="20200527145000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527145000 -0300" stop="20200527165500 -0300" channel="AMC">
+    <title lang="pt">Escobar: Paraíso Perdido</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527165500 -0300" stop="20200527190000 -0300" channel="AMC">
+    <title lang="pt">Rush - No Limite da Emoção</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527190000 -0300" stop="20200527203500 -0300" channel="AMC">
+    <title lang="pt">Eu Nunca</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200527203500 -0300" stop="20200527223000 -0300" channel="AMC">
+    <title lang="pt">Jumanji</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200527223000 -0300" stop="20200528001500 -0300" channel="AMC">
+    <title lang="pt">O Paizão</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528001500 -0300" stop="20200528022000 -0300" channel="AMC">
+    <title lang="pt">Zohan: O Agente Bom de Corte</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528022000 -0300" stop="20200528041000 -0300" channel="AMC">
+    <title lang="pt">Tudo Por Um Bebê</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528041000 -0300" stop="20200528061000 -0300" channel="AMC">
+    <title lang="pt">Stop-Loss - A Lei da Guerra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528061000 -0300" stop="20200528063500 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528063500 -0300" stop="20200528070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528070000 -0300" stop="20200528073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528073000 -0300" stop="20200528080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528080000 -0300" stop="20200528083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528083000 -0300" stop="20200528090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528090000 -0300" stop="20200528093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528093000 -0300" stop="20200528100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528100000 -0300" stop="20200528103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528103000 -0300" stop="20200528110000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528110000 -0300" stop="20200528120000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200528120000 -0300" stop="20200528123000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200528123000 -0300" stop="20200528140500 -0300" channel="AMC">
+    <title lang="pt">Olhos Famintos</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200528140500 -0300" stop="20200528153500 -0300" channel="AMC">
+    <title lang="pt">Chloe e Theo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528153500 -0300" stop="20200528173000 -0300" channel="AMC">
+    <title lang="pt">Jumanji</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200528173000 -0300" stop="20200528191500 -0300" channel="AMC">
+    <title lang="pt">Ligados Pelo Amor</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528191500 -0300" stop="20200528205500 -0300" channel="AMC">
+    <title lang="pt">O Paizão</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528205500 -0300" stop="20200528223000 -0300" channel="AMC">
+    <title lang="pt">Ponto de Vista</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200528223000 -0300" stop="20200529003000 -0300" channel="AMC">
+    <title lang="pt">Stop-Loss - A Lei da Guerra</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529003000 -0300" stop="20200529023000 -0300" channel="AMC">
+    <title lang="pt">Marcados para Morrer</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200529023000 -0300" stop="20200529043000 -0300" channel="AMC">
+    <title lang="pt">Headhunters</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200529043000 -0300" stop="20200529063000 -0300" channel="AMC">
+    <title lang="pt">Evocando Espíritos 2</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200529063000 -0300" stop="20200529070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529070000 -0300" stop="20200529073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529073000 -0300" stop="20200529080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529080000 -0300" stop="20200529083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529083000 -0300" stop="20200529090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529090000 -0300" stop="20200529093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529093000 -0300" stop="20200529100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529100000 -0300" stop="20200529103000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529103000 -0300" stop="20200529110000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529110000 -0300" stop="20200529120000 -0300" channel="AMC">
+    <title lang="pt">NOS4A2</title>
+    <category lang="pt">Séries/Terror</category>
+  </programme>
+  <programme start="20200529120000 -0300" stop="20200529123000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529123000 -0300" stop="20200529142500 -0300" channel="AMC">
+    <title lang="pt">As Panteras: Detonando</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529142500 -0300" stop="20200529163000 -0300" channel="AMC">
+    <title lang="pt">Chef</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529163000 -0300" stop="20200529180500 -0300" channel="AMC">
+    <title lang="pt">O Casamento do Ano</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529180500 -0300" stop="20200529195000 -0300" channel="AMC">
+    <title lang="pt">Armações do Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529195000 -0300" stop="20200529223000 -0300" channel="AMC">
+    <title lang="pt">Gladiador</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200529223000 -0300" stop="20200530003000 -0300" channel="AMC">
+    <title lang="pt">Marcados para Morrer</title>
+    <category lang="pt">Filme/Policial</category>
+  </programme>
+  <programme start="20200530003000 -0300" stop="20200530031000 -0300" channel="AMC">
+    <title lang="pt">Gladiador</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530031000 -0300" stop="20200530044000 -0300" channel="AMC">
+    <title lang="pt">Caminho Para o Coração</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530044000 -0300" stop="20200530063000 -0300" channel="AMC">
+    <title lang="pt">Headhunters</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200530063000 -0300" stop="20200530070000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200530073000 -0300" stop="20200530080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200530080000 -0300" stop="20200530083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200530083000 -0300" stop="20200530090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200530090000 -0300" stop="20200530093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200530093000 -0300" stop="20200530100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200530100000 -0300" stop="20200530114000 -0300" channel="AMC">
+    <title lang="pt">Bem-Vindo à Selva</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530114000 -0300" stop="20200530143000 -0300" channel="AMC">
+    <title lang="pt">O Hobbit: Uma Jornada Inesperada</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530143000 -0300" stop="20200530164000 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park - O Parque dos Dinossauros</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530164000 -0300" stop="20200530185500 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park: O Mundo Perdido</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530185500 -0300" stop="20200530203000 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park 3</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530203000 -0300" stop="20200530223000 -0300" channel="AMC">
+    <title lang="pt">Evocando Espíritos 2</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200530223000 -0300" stop="20200531010000 -0300" channel="AMC">
+    <title lang="pt">Robin Hood</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531010000 -0300" stop="20200531025000 -0300" channel="AMC">
+    <title lang="pt">Drive</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531025000 -0300" stop="20200531044000 -0300" channel="AMC">
+    <title lang="pt">Os Mercenários 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531044000 -0300" stop="20200531070000 -0300" channel="AMC">
+    <title lang="pt">6 Balas</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200531070000 -0300" stop="20200531073000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200531073000 -0300" stop="20200531080000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200531080000 -0300" stop="20200531083000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200531083000 -0300" stop="20200531090000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200531090000 -0300" stop="20200531093000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200531093000 -0300" stop="20200531100000 -0300" channel="AMC">
+    <title lang="pt">Action Zone VII</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200531100000 -0300" stop="20200531114500 -0300" channel="AMC">
+    <title lang="pt">Armações do Amor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531114500 -0300" stop="20200531140000 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park - O Parque dos Dinossauros</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531140000 -0300" stop="20200531161500 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park: O Mundo Perdido</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531161500 -0300" stop="20200531175500 -0300" channel="AMC">
+    <title lang="pt">Jurassic Park 3</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531175500 -0300" stop="20200531202500 -0300" channel="AMC">
+    <title lang="pt">Robin Hood</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531202500 -0300" stop="20200531223000 -0300" channel="AMC">
+    <title lang="pt">Riddick 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531223000 -0300" stop="20200601003000 -0300" channel="AMC">
+    <title lang="pt">Imortais</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200525174500 -0300" stop="20200525181500 -0300" channel="A&amp;E">
@@ -112,6 +1192,626 @@
     <title lang="pt">Alien - O Oitavo Passageiro</title>
     <category lang="pt">Filme/Ficção</category>
   </programme>
+  <programme start="20200526005500 -0300" stop="20200526014500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526014500 -0300" stop="20200526023500 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200526023500 -0300" stop="20200526033000 -0300" channel="A&amp;E">
+    <title lang="pt">As Primeiras 48 Horas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526033000 -0300" stop="20200526042500 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526042500 -0300" stop="20200526051500 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200526051500 -0300" stop="20200526060000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200526060000 -0300" stop="20200526065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200526065000 -0300" stop="20200526074000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200526074000 -0300" stop="20200526083000 -0300" channel="A&amp;E">
+    <title lang="pt">Cultos e Crenças Extremas</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200526083000 -0300" stop="20200526092000 -0300" channel="A&amp;E">
+    <title lang="pt">As Várias Faces de Jane</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200526092000 -0300" stop="20200526101000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200526101000 -0300" stop="20200526110000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526110000 -0300" stop="20200526115000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200526115000 -0300" stop="20200526124000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200526124000 -0300" stop="20200526133000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526133000 -0300" stop="20200526135500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200526135500 -0300" stop="20200526142500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200526142500 -0300" stop="20200526151500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526151500 -0300" stop="20200526160500 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200526160500 -0300" stop="20200526170000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526170000 -0300" stop="20200526175500 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200526175500 -0300" stop="20200526184500 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200526184500 -0300" stop="20200526193500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Narcolândia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200526193500 -0300" stop="20200526211000 -0300" channel="A&amp;E">
+    <title lang="pt">A Queda de El Chapo</title>
+    <category lang="pt">Documentário/Biografia</category>
+  </programme>
+  <programme start="20200526211000 -0300" stop="20200526220000 -0300" channel="A&amp;E">
+    <title lang="pt">El Chapo</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200526225000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200526225000 -0300" stop="20200527011000 -0300" channel="A&amp;E">
+    <title lang="pt">Aliens - O Resgate</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200527011000 -0300" stop="20200527020000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527020000 -0300" stop="20200527025000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200527025000 -0300" stop="20200527033500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527033500 -0300" stop="20200527042500 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527042500 -0300" stop="20200527051000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200527051000 -0300" stop="20200527060000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200527060000 -0300" stop="20200527065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200527065000 -0300" stop="20200527074000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200527074000 -0300" stop="20200527083000 -0300" channel="A&amp;E">
+    <title lang="pt">As Várias Faces de Jane</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200527083000 -0300" stop="20200527092000 -0300" channel="A&amp;E">
+    <title lang="pt">Desaparecido No Paraíso</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200527092000 -0300" stop="20200527101000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200527101000 -0300" stop="20200527110000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Narcolândia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200527110000 -0300" stop="20200527115000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527115000 -0300" stop="20200527124000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200527124000 -0300" stop="20200527133000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527133000 -0300" stop="20200527135500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200527135500 -0300" stop="20200527142000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200527142000 -0300" stop="20200527151500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527151500 -0300" stop="20200527161000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200527161000 -0300" stop="20200527170000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Narcolândia</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200527170000 -0300" stop="20200527175500 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200527175500 -0300" stop="20200527184500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527184500 -0300" stop="20200527194000 -0300" channel="A&amp;E">
+    <title lang="pt">Gamebros</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527194000 -0300" stop="20200527211000 -0300" channel="A&amp;E">
+    <title lang="pt">Hector</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527211000 -0300" stop="20200527220000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527220000 -0300" stop="20200527225000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200527225000 -0300" stop="20200528005500 -0300" channel="A&amp;E">
+    <title lang="pt">Alien 3</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200528005500 -0300" stop="20200528014500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528014500 -0300" stop="20200528024000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200528024000 -0300" stop="20200528033000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528033000 -0300" stop="20200528042000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528042000 -0300" stop="20200528050500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200528050500 -0300" stop="20200528060000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200528060000 -0300" stop="20200528065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200528065000 -0300" stop="20200528074000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200528074000 -0300" stop="20200528083000 -0300" channel="A&amp;E">
+    <title lang="pt">Desaparecido No Paraíso</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200528083000 -0300" stop="20200528092000 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200528092000 -0300" stop="20200528101500 -0300" channel="A&amp;E">
+    <title lang="pt">Gamebros</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528101500 -0300" stop="20200528110500 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528110500 -0300" stop="20200528115500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528115500 -0300" stop="20200528124500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200528124500 -0300" stop="20200528133500 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528133500 -0300" stop="20200528135700 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200528135700 -0300" stop="20200528142000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200528142000 -0300" stop="20200528150500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528150500 -0300" stop="20200528160000 -0300" channel="A&amp;E">
+    <title lang="pt">Gamebros</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528160000 -0300" stop="20200528165000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528165000 -0300" stop="20200528174000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528174000 -0300" stop="20200528183000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200528183000 -0300" stop="20200528191500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200528191500 -0300" stop="20200528211000 -0300" channel="A&amp;E">
+    <title lang="pt">Alien 3</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200528211000 -0300" stop="20200528220000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528220000 -0300" stop="20200528225000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200528225000 -0300" stop="20200529004000 -0300" channel="A&amp;E">
+    <title lang="pt">Alien: A Ressurreição</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200529004000 -0300" stop="20200529013500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529013500 -0300" stop="20200529022500 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200529022500 -0300" stop="20200529032000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529032000 -0300" stop="20200529041500 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529041500 -0300" stop="20200529051000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200529051000 -0300" stop="20200529060000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200529060000 -0300" stop="20200529065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200529065000 -0300" stop="20200529074000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200529074000 -0300" stop="20200529083000 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200529083000 -0300" stop="20200529092000 -0300" channel="A&amp;E">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200529092000 -0300" stop="20200529101000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529101000 -0300" stop="20200529110500 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529110500 -0300" stop="20200529115000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529115000 -0300" stop="20200529124000 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200529124000 -0300" stop="20200529133000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529133000 -0300" stop="20200529135500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200529135500 -0300" stop="20200529142000 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200529142000 -0300" stop="20200529151000 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529151000 -0300" stop="20200529160000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529160000 -0300" stop="20200529164500 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200529164500 -0300" stop="20200529173500 -0300" channel="A&amp;E">
+    <title lang="pt">Casos Arquivados</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200529173500 -0300" stop="20200529182500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529182500 -0300" stop="20200529192000 -0300" channel="A&amp;E">
+    <title lang="pt">El Chapo</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200529192000 -0300" stop="20200529211000 -0300" channel="A&amp;E">
+    <title lang="pt">Alien: A Ressurreição</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200529211000 -0300" stop="20200529220000 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200529220000 -0300" stop="20200529225000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200529225000 -0300" stop="20200530003000 -0300" channel="A&amp;E">
+    <title lang="pt">Encurralados</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200530003000 -0300" stop="20200530012500 -0300" channel="A&amp;E">
+    <title lang="pt">NCIS: Los Angeles</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200530012500 -0300" stop="20200530022000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200530022000 -0300" stop="20200530031500 -0300" channel="A&amp;E">
+    <title lang="pt">Vidas Interrompidas</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530031500 -0300" stop="20200530041000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200530041000 -0300" stop="20200530050500 -0300" channel="A&amp;E">
+    <title lang="pt">60 Dias Infiltrados Na Prisão</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200530050500 -0300" stop="20200530060000 -0300" channel="A&amp;E">
+    <title lang="pt">Bull</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200530060000 -0300" stop="20200530065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530065000 -0300" stop="20200530074000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530074000 -0300" stop="20200530083000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530083000 -0300" stop="20200530092000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530092000 -0300" stop="20200530101000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530101000 -0300" stop="20200530110000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530110000 -0300" stop="20200530115000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530115000 -0300" stop="20200530124000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530124000 -0300" stop="20200530133000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530133000 -0300" stop="20200530142000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530142000 -0300" stop="20200530151000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530151000 -0300" stop="20200530160000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530160000 -0300" stop="20200530165500 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530165500 -0300" stop="20200530174500 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Médicas Noturnas</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200530174500 -0300" stop="20200530192500 -0300" channel="A&amp;E">
+    <title lang="pt">Adrenalina 2 - Alta Voltagem</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530192500 -0300" stop="20200530211000 -0300" channel="A&amp;E">
+    <title lang="pt">Encurralados</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200530211000 -0300" stop="20200530224500 -0300" channel="A&amp;E">
+    <title lang="pt">Amityville: O Despertar</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200530224500 -0300" stop="20200531003000 -0300" channel="A&amp;E">
+    <title lang="pt">Adrenalina 2 - Alta Voltagem</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531003000 -0300" stop="20200531021000 -0300" channel="A&amp;E">
+    <title lang="pt">Dentro Da Mente De Um Serial Killer</title>
+    <category lang="pt">Documentário/Investigação</category>
+  </programme>
+  <programme start="20200531021000 -0300" stop="20200531030500 -0300" channel="A&amp;E">
+    <title lang="pt">Desaparecido No Paraíso</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200531030500 -0300" stop="20200531040500 -0300" channel="A&amp;E">
+    <title lang="pt">Segurança Máxima</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200531040500 -0300" stop="20200531050500 -0300" channel="A&amp;E">
+    <title lang="pt">Último Dia Em Liberdade</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200531050500 -0300" stop="20200531060000 -0300" channel="A&amp;E">
+    <title lang="pt">As Várias Faces de Jane</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200531060000 -0300" stop="20200531065000 -0300" channel="A&amp;E">
+    <title lang="pt">Acumuladores Compulsivos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200531065000 -0300" stop="20200531074000 -0300" channel="A&amp;E">
+    <title lang="pt">Dr. Pé</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200531074000 -0300" stop="20200531083000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531083000 -0300" stop="20200531092000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531092000 -0300" stop="20200531101000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531101000 -0300" stop="20200531110000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531110000 -0300" stop="20200531115000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531115000 -0300" stop="20200531124000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531124000 -0300" stop="20200531133000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531133000 -0300" stop="20200531142000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531142000 -0300" stop="20200531151500 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531151500 -0300" stop="20200531161000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531161000 -0300" stop="20200531170500 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531170500 -0300" stop="20200531180000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200531180000 -0300" stop="20200531193500 -0300" channel="A&amp;E">
+    <title lang="pt">Gamer</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531193500 -0300" stop="20200531211000 -0300" channel="A&amp;E">
+    <title lang="pt">Amityville: O Despertar</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200531211000 -0300" stop="20200531225000 -0300" channel="A&amp;E">
+    <title lang="pt">Chamada de Emergência</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200531225000 -0300" stop="20200601002500 -0300" channel="A&amp;E">
+    <title lang="pt">Gamer</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
   <programme start="20200525162000 -0300" stop="20200525180000 -0300" channel="CANAL BRASIL">
     <title lang="pt">Jeitosinha</title>
     <category lang="pt">Filme/Comédia</category>
@@ -136,6 +1836,550 @@
     <title lang="pt">A Arte do Encontro</title>
     <category lang="pt">Variedades/Entrevista</category>
   </programme>
+  <programme start="20200526000000 -0300" stop="20200526001500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Transmissão - Rita Cadilac</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200526001500 -0300" stop="20200526003000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200526003000 -0300" stop="20200526010000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Larica Total - Dando Pressão na Sardinha</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200526010000 -0300" stop="20200526014000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200526014000 -0300" stop="20200526033000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Ele, o Boto</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526033000 -0300" stop="20200526034500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Um Copo de Veneno</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200526034500 -0300" stop="20200526040000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200526040000 -0300" stop="20200526055000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Festival de Cannes: Em Pedaços (Aus Dem Nichts)</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526055000 -0300" stop="20200526070000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Jabuti e a Anta</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200526070000 -0300" stop="20200526073000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Favela Gay - Periferias LGBTQI+</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200526073000 -0300" stop="20200526082500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Faixa Musical: Susana Travassos Canta Ana Terra</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200526082500 -0300" stop="20200526094500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Festa</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526094500 -0300" stop="20200526111500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Hoje</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526111500 -0300" stop="20200526130000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Jogo de Cena</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200526130000 -0300" stop="20200526130800 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Extratos</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200526130800 -0300" stop="20200526133000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Assim Como Ela</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200526133000 -0300" stop="20200526140000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Arte do Encontro</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200526140000 -0300" stop="20200526160500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">2 Filhos de Francisco</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526160500 -0300" stop="20200526175500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200526175500 -0300" stop="20200526191500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Mussum - Um Filme do Cacildis</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200526191500 -0300" stop="20200526203000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Sócrates</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526203000 -0300" stop="20200526220000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Confia em Mim</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200526233700 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Latinidades: O Clube</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526233700 -0300" stop="20200526234500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200526234500 -0300" stop="20200527002000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cacá Diegues - 80 Anos: Orfeu</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527002000 -0300" stop="20200527005300 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte Que O Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527005300 -0300" stop="20200527013500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527013500 -0300" stop="20200527020800 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte Que O Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527020800 -0300" stop="20200527024500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527024500 -0300" stop="20200527032300 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527032300 -0300" stop="20200527040000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200527040000 -0300" stop="20200527054500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Festival de Cannes: Eu Tu Eles</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527054500 -0300" stop="20200527070000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Batalha Do Passinho - O Filme</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200527070000 -0300" stop="20200527073000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O País do Cinema</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200527073000 -0300" stop="20200527084500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Baronesa</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200527084500 -0300" stop="20200527101000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Entrando numa Roubada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527101000 -0300" stop="20200527111000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Faixa Musical: Susana Travassos Canta Ana Terra</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200527111000 -0300" stop="20200527130000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200527130000 -0300" stop="20200527131700 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Demônia - Melodrama em 3 Atos</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200527131700 -0300" stop="20200527133000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: O Mar é Ali em Cima</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200527133000 -0300" stop="20200527134000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200527134000 -0300" stop="20200527143500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Leny, A Fabulosa</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200527143500 -0300" stop="20200527161500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Diamantino</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527161500 -0300" stop="20200527174500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Sábado</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527174500 -0300" stop="20200527193000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Tapete Vermelho</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527193000 -0300" stop="20200527200000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Favela Gay - Periferias LGBTQI+</title>
+    <category lang="pt">Séries/Documentário</category>
+  </programme>
+  <programme start="20200527200000 -0300" stop="20200527213000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">É Tudo Verdade: Procurando Sugar Man</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200527213000 -0300" stop="20200527224000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cidade de Deus - 10 Anos Depois</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200527224000 -0300" stop="20200528001000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Amor no Divã</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528001000 -0300" stop="20200528022000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Som ao Redor</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528022000 -0300" stop="20200528041000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Última Parada - 174</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528041000 -0300" stop="20200528063000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Festival de Cannes: A Vida Invisível</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528063000 -0300" stop="20200528064700 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Não Falo com Estranhos</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200528064700 -0300" stop="20200528070000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Tailor</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528070000 -0300" stop="20200528073000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Arte do Encontro</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200528073000 -0300" stop="20200528081500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Dia de Reis</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528081500 -0300" stop="20200528100500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Tô Ryca!</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528100500 -0300" stop="20200528115000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Farra do Circo</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200528115000 -0300" stop="20200528131000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Faixa Musical: Lô Borges Ao Vivo no Circo Voador</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200528131000 -0300" stop="20200528134000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Nova Iorque</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528134000 -0300" stop="20200528141000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Som do Vinil</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200528141000 -0300" stop="20200528160000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200528160000 -0300" stop="20200528170500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Garrincha - Alegria do Povo</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200528170500 -0300" stop="20200528183500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Os Normais</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528183500 -0300" stop="20200528200500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">É Tudo Verdade: Procurando Sugar Man</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200528200500 -0300" stop="20200528201500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200528201500 -0300" stop="20200528220000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Quase Dois Irmãos</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528220000 -0300" stop="20200529000000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Tinta Bruta</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529000000 -0300" stop="20200529003000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O País do Cinema</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200529003000 -0300" stop="20200529022000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Rio Babilônia</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529022000 -0300" stop="20200529041000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cacá Diegues - 80 Anos: Orfeu</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529041000 -0300" stop="20200529053500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Dama da Zona - Hoje tem Gafieira</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529053500 -0300" stop="20200529070000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Caixa 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529070000 -0300" stop="20200529073000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Som do Vinil</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200529073000 -0300" stop="20200529090500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Jeitosinha</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529090500 -0300" stop="20200529105500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200529105500 -0300" stop="20200529130000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">2 Filhos de Francisco</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529130000 -0300" stop="20200529133000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta Na Tela: Retrato de Carmem D.</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200529133000 -0300" stop="20200529134500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200529134500 -0300" stop="20200529140500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Transmissão - Rita Cadilac</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200529140500 -0300" stop="20200529153000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Entrando numa Roubada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529153000 -0300" stop="20200529170500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Irmã Dulce</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529170500 -0300" stop="20200529183500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">É Tudo Verdade: Procurando Sugar Man</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200529183500 -0300" stop="20200529202500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Os Homens São de Marte... E é Pra Lá Que Eu Vou</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529202500 -0300" stop="20200529220000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Vai Que Cola - O Filme</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529220000 -0300" stop="20200529223000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Larica Total - A Cebola Pirata do Deserto Australiano</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200529223000 -0300" stop="20200529231500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200529231500 -0300" stop="20200530010500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Central do Brasil</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530010500 -0300" stop="20200530032500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Vida Invisível</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530032500 -0300" stop="20200530045000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Estrela Nua</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530045000 -0300" stop="20200530063500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Bye Bye Brasil</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530063500 -0300" stop="20200530070000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Tráfico de Urso</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530072500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Transmissão - Rita Cadilac</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200530072500 -0300" stop="20200530092500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">João, O Maestro</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200530092500 -0300" stop="20200530113000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Os Dez Mandamentos - O Filme</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530113000 -0300" stop="20200530130000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Hoje</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530130000 -0300" stop="20200530133000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O País do Cinema</title>
+    <category lang="pt">Séries/Cinema</category>
+  </programme>
+  <programme start="20200530133000 -0300" stop="20200530140000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Larica Total - A Cebola Pirata do Deserto Australiano</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200530140000 -0300" stop="20200530144500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200530144500 -0300" stop="20200530161500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Confia em Mim</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530161500 -0300" stop="20200530162500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200530162500 -0300" stop="20200530181500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Os Homens São de Marte... E é Pra Lá Que Eu Vou</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530181500 -0300" stop="20200530194500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Amor no Divã</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530194500 -0300" stop="20200530212000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Irmã Dulce</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530212000 -0300" stop="20200530234000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Vida Invisível</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530234000 -0300" stop="20200531011500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Eu Te Amo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531011500 -0300" stop="20200531013000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200531013000 -0300" stop="20200531020000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Larica Total - A Cebola Pirata do Deserto Australiano</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200531020000 -0300" stop="20200531024500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200531024500 -0300" stop="20200531050000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Latinidades: O Clube</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531050000 -0300" stop="20200531052000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Pornolândia</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
+  <programme start="20200531052000 -0300" stop="20200531070000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Deslembro</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531070000 -0300" stop="20200531072700 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: Nada</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200531072700 -0300" stop="20200531074400 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: Não Falo com Estranhos</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200531074400 -0300" stop="20200531075400 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: Tailor</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531075400 -0300" stop="20200531080200 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: Extratos</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200531080200 -0300" stop="20200531081800 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: Assim Como Ela</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200531081800 -0300" stop="20200531083500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: Demônia - Melodrama em 3 Atos</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200531083500 -0300" stop="20200531084000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: O Mar é Ali em Cima</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200531084000 -0300" stop="20200531090400 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: Nova Iorque</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531090400 -0300" stop="20200531093000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Curta na Tela: Retrato de Carmem D.</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200531093000 -0300" stop="20200531094000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Cinejornal</title>
+    <category lang="pt">Jornalismo/Informativo</category>
+  </programme>
+  <programme start="20200531094000 -0300" stop="20200531101000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Larica Total - A Cebola Pirata do Deserto Australiano</title>
+    <category lang="pt">Séries/Culinária</category>
+  </programme>
+  <programme start="20200531101000 -0300" stop="20200531105500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Malasartes</title>
+    <category lang="pt">Séries/Comédia</category>
+  </programme>
+  <programme start="20200531105500 -0300" stop="20200531123000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">É Tudo Verdade: Procurando Sugar Man</title>
+    <category lang="pt">Filme/Documentário</category>
+  </programme>
+  <programme start="20200531123000 -0300" stop="20200531125000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Broto</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200531125000 -0300" stop="20200531130000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Curta na Tela: Dia dos Namorados</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531130000 -0300" stop="20200531144500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Shaolin do Sertão</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531144500 -0300" stop="20200531160000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Mussum - Um Filme do Cacildis</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200531160000 -0300" stop="20200531180000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Rasga Coração</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531180000 -0300" stop="20200531195000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200531195000 -0300" stop="20200531211000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Entrando numa Roubada</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531211000 -0300" stop="20200531224500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Casa da Mãe Joana</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531224500 -0300" stop="20200531231800 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte Que O Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531231800 -0300" stop="20200531235500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200531235500 -0300" stop="20200601003300 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Maratona Aldo - Mais Forte que o Mundo</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
   <programme start="20200525162500 -0300" stop="20200525180000 -0300" channel="TC ACTION">
     <title lang="pt">Dia do Orgulho Nerd: Dragonball Evolution</title>
     <category lang="pt">Filme/Aventura</category>
@@ -152,6 +2396,302 @@
     <title lang="pt">Dia do Orgulho Nerd: X-men: Apocalipse</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
+  <programme start="20200526003000 -0300" stop="20200526025500 -0300" channel="TC ACTION">
+    <title lang="pt">Dia do Orgulho Nerd: Guardiões da Galáxia Vol. 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526025500 -0300" stop="20200526043000 -0300" channel="TC ACTION">
+    <title lang="pt">Martírio</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200526043000 -0300" stop="20200526054000 -0300" channel="TC ACTION">
+    <title lang="pt">Prazer Entre Amigos</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200526054000 -0300" stop="20200526071000 -0300" channel="TC ACTION">
+    <title lang="pt">Perigo Extremo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526071000 -0300" stop="20200526084000 -0300" channel="TC ACTION">
+    <title lang="pt">Harbinger Down - Terror No Gelo</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200526084000 -0300" stop="20200526103000 -0300" channel="TC ACTION">
+    <title lang="pt">Paixão Obsessiva</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200526103000 -0300" stop="20200526122500 -0300" channel="TC ACTION">
+    <title lang="pt">O Inferno De Dante</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526122500 -0300" stop="20200526142000 -0300" channel="TC ACTION">
+    <title lang="pt">Braddock 3 - O Resgate</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526142000 -0300" stop="20200526160000 -0300" channel="TC ACTION">
+    <title lang="pt">Quarteto Fantástico e o Surfista Prateado</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526160000 -0300" stop="20200526181500 -0300" channel="TC ACTION">
+    <title lang="pt">Piratas Do Caribe - A Vingança De Salazar</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200526181500 -0300" stop="20200526195500 -0300" channel="TC ACTION">
+    <title lang="pt">Alvo Duplo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526195500 -0300" stop="20200526220000 -0300" channel="TC ACTION">
+    <title lang="pt">Tropa de Elite</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200526235000 -0300" channel="TC ACTION">
+    <title lang="pt">Anjos da Noite - A Evolução</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200526235000 -0300" stop="20200527015000 -0300" channel="TC ACTION">
+    <title lang="pt">Caso 39</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200527015000 -0300" stop="20200527041000 -0300" channel="TC ACTION">
+    <title lang="pt">Miami Vice</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527041000 -0300" stop="20200527054000 -0300" channel="TC ACTION">
+    <title lang="pt">Luxúria: A Iniciação</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200527054000 -0300" stop="20200527074000 -0300" channel="TC ACTION">
+    <title lang="pt">Refúgio Do Medo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200527074000 -0300" stop="20200527094000 -0300" channel="TC ACTION">
+    <title lang="pt">Desconhecido</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527094000 -0300" stop="20200527112000 -0300" channel="TC ACTION">
+    <title lang="pt">12 Horas</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527112000 -0300" stop="20200527134500 -0300" channel="TC ACTION">
+    <title lang="pt">Guardiões da Galáxia Vol. 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527134500 -0300" stop="20200527161500 -0300" channel="TC ACTION">
+    <title lang="pt">X-men: Apocalipse</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527161500 -0300" stop="20200527181000 -0300" channel="TC ACTION">
+    <title lang="pt">Imortais</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527181000 -0300" stop="20200527194500 -0300" channel="TC ACTION">
+    <title lang="pt">Reação Em Cadeia</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527194500 -0300" stop="20200527220000 -0300" channel="TC ACTION">
+    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527220000 -0300" stop="20200527234000 -0300" channel="TC ACTION">
+    <title lang="pt">Frankenstein: Entre Anjos e Demônios</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527234000 -0300" stop="20200528013000 -0300" channel="TC ACTION">
+    <title lang="pt">Velocidade Mortal</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528013000 -0300" stop="20200528040000 -0300" channel="TC ACTION">
+    <title lang="pt">Jogos Vorazes: Em Chamas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528040000 -0300" stop="20200528054000 -0300" channel="TC ACTION">
+    <title lang="pt">Férias Sem O Marido</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200528054000 -0300" stop="20200528072500 -0300" channel="TC ACTION">
+    <title lang="pt">O Sobrevivente (1987)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528072500 -0300" stop="20200528101000 -0300" channel="TC ACTION">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200528101000 -0300" stop="20200528123000 -0300" channel="TC ACTION">
+    <title lang="pt">Han Solo: Uma História Star Wars</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528123000 -0300" stop="20200528141000 -0300" channel="TC ACTION">
+    <title lang="pt">Alvo Duplo</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528141000 -0300" stop="20200528161500 -0300" channel="TC ACTION">
+    <title lang="pt">Hellboy 2 - O Exército Dourado</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200528161500 -0300" stop="20200528181500 -0300" channel="TC ACTION">
+    <title lang="pt">Caso 39</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200528181500 -0300" stop="20200528200500 -0300" channel="TC ACTION">
+    <title lang="pt">Albatroz</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200528200500 -0300" stop="20200528220000 -0300" channel="TC ACTION">
+    <title lang="pt">O Último Desafio</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528220000 -0300" stop="20200529000000 -0300" channel="TC ACTION">
+    <title lang="pt">Busca Implacável 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529000000 -0300" stop="20200529014000 -0300" channel="TC ACTION">
+    <title lang="pt">Morgan - A Evolução</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200529014000 -0300" stop="20200529040000 -0300" channel="TC ACTION">
+    <title lang="pt">Waterworld - O Segredo das Águas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529040000 -0300" stop="20200529053000 -0300" channel="TC ACTION">
+    <title lang="pt">Amores Sacanas</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200529053000 -0300" stop="20200529073500 -0300" channel="TC ACTION">
+    <title lang="pt">Guerreiro da Escuridão</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529073500 -0300" stop="20200529101000 -0300" channel="TC ACTION">
+    <title lang="pt">O Último Samurai</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529101000 -0300" stop="20200529131500 -0300" channel="TC ACTION">
+    <title lang="pt">Coração Valente</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529131500 -0300" stop="20200529150500 -0300" channel="TC ACTION">
+    <title lang="pt">Anjos da Noite - A Evolução</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200529150500 -0300" stop="20200529165500 -0300" channel="TC ACTION">
+    <title lang="pt">Velocidade Mortal</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529165500 -0300" stop="20200529183000 -0300" channel="TC ACTION">
+    <title lang="pt">Reação Em Cadeia</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529183000 -0300" stop="20200529200500 -0300" channel="TC ACTION">
+    <title lang="pt">Sequestro Relâmpago</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200529200500 -0300" stop="20200529220000 -0300" channel="TC ACTION">
+    <title lang="pt">O Último Caçador de Bruxas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529220000 -0300" stop="20200530000000 -0300" channel="TC ACTION">
+    <title lang="pt">3 Dias Para Matar</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530000000 -0300" stop="20200530021000 -0300" channel="TC ACTION">
+    <title lang="pt">O Dia Depois de Amanhã</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530021000 -0300" stop="20200530035500 -0300" channel="TC ACTION">
+    <title lang="pt">O Homem com Punhos de Ferro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530035500 -0300" stop="20200530054000 -0300" channel="TC ACTION">
+    <title lang="pt">As Aventuras Sensuais Da Minha Esposa</title>
+    <category lang="pt">Filme/Erótico</category>
+  </programme>
+  <programme start="20200530054000 -0300" stop="20200530080500 -0300" channel="TC ACTION">
+    <title lang="pt">Death Note: O Último Nome</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530080500 -0300" stop="20200530100500 -0300" channel="TC ACTION">
+    <title lang="pt">Rota de Fuga (2013)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530100500 -0300" stop="20200530120000 -0300" channel="TC ACTION">
+    <title lang="pt">12 Rounds</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530120000 -0300" stop="20200530135500 -0300" channel="TC ACTION">
+    <title lang="pt">O Último Desafio</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530135500 -0300" stop="20200530154500 -0300" channel="TC ACTION">
+    <title lang="pt">A Hora do Rush</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530154500 -0300" stop="20200530180000 -0300" channel="TC ACTION">
+    <title lang="pt">Rei Arthur: A Lenda da Espada</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530200000 -0300" channel="TC ACTION">
+    <title lang="pt">Red 2 - Aposentados e Ainda Mais Perigosos</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530200000 -0300" stop="20200530220000 -0300" channel="TC ACTION">
+    <title lang="pt">Deadpool</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530220000 -0300" stop="20200530235000 -0300" channel="TC ACTION">
+    <title lang="pt">Solomon Kane - O Caçador de Demônios</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530235000 -0300" stop="20200531014500 -0300" channel="TC ACTION">
+    <title lang="pt">Doce Vingança</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200531014500 -0300" stop="20200531033000 -0300" channel="TC ACTION">
+    <title lang="pt">Fuga Implacável</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531033000 -0300" stop="20200531055500 -0300" channel="TC ACTION">
+    <title lang="pt">Robin Hood (2010)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531055500 -0300" stop="20200531073000 -0300" channel="TC ACTION">
+    <title lang="pt">Renascido Das Trevas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531073000 -0300" stop="20200531093000 -0300" channel="TC ACTION">
+    <title lang="pt">A Legião Perdida</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531093000 -0300" stop="20200531113000 -0300" channel="TC ACTION">
+    <title lang="pt">Truque de Mestre</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200531113000 -0300" stop="20200531134000 -0300" channel="TC ACTION">
+    <title lang="pt">O Dia Depois de Amanhã</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531134000 -0300" stop="20200531154000 -0300" channel="TC ACTION">
+    <title lang="pt">Busca Implacável 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531154000 -0300" stop="20200531174000 -0300" channel="TC ACTION">
+    <title lang="pt">3 Dias Para Matar</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531174000 -0300" stop="20200531192500 -0300" channel="TC ACTION">
+    <title lang="pt">Duro de Matar: Um Bom Dia Para Morrer</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531192500 -0300" stop="20200531220000 -0300" channel="TC ACTION">
+    <title lang="pt">007 Contra Spectre</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531220000 -0300" stop="20200531234000 -0300" channel="TC ACTION">
+    <title lang="pt">A Torre Negra</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531234000 -0300" stop="20200601012500 -0300" channel="TC ACTION">
+    <title lang="pt">Falcão - O Campeão Dos Campeões</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
   <programme start="20200525175000 -0300" stop="20200525194000 -0300" channel="TC CULT">
     <title lang="pt">Deslembro</title>
     <category lang="pt">Variedades/Diversos</category>
@@ -163,6 +2703,294 @@
   <programme start="20200525220000 -0300" stop="20200526000000 -0300" channel="TC CULT">
     <title lang="pt">Sessão Bang Bang: Sua Última Façanha</title>
     <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200526000000 -0300" stop="20200526014000 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Bang Bang: Pistoleiros do Arizona</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200526014000 -0300" stop="20200526033000 -0300" channel="TC CULT">
+    <title lang="pt">Meus Vizinhos São Um Terror</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526033000 -0300" stop="20200526051500 -0300" channel="TC CULT">
+    <title lang="pt">O Orgulho</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526051500 -0300" stop="20200526071500 -0300" channel="TC CULT">
+    <title lang="pt">Uma Casa à Beira Mar</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526071500 -0300" stop="20200526085000 -0300" channel="TC CULT">
+    <title lang="pt">Sonhos de Um Sedutor</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526085000 -0300" stop="20200526105000 -0300" channel="TC CULT">
+    <title lang="pt">A Garota Desconhecida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526105000 -0300" stop="20200526122000 -0300" channel="TC CULT">
+    <title lang="pt">Paranoid Park</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526122000 -0300" stop="20200526141500 -0300" channel="TC CULT">
+    <title lang="pt">Esplendor</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526141500 -0300" stop="20200526172500 -0300" channel="TC CULT">
+    <title lang="pt">Intolerância</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526172500 -0300" stop="20200526195500 -0300" channel="TC CULT">
+    <title lang="pt">2001: Uma Odisséia No Espaço</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200526195500 -0300" stop="20200526220000 -0300" channel="TC CULT">
+    <title lang="pt">Robocop 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200527003000 -0300" channel="TC CULT">
+    <title lang="pt">Duna</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200527003000 -0300" stop="20200527022000 -0300" channel="TC CULT">
+    <title lang="pt">Carrie, a Estranha (1976)</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200527022000 -0300" stop="20200527043000 -0300" channel="TC CULT">
+    <title lang="pt">Trama Macabra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200527043000 -0300" stop="20200527062500 -0300" channel="TC CULT">
+    <title lang="pt">Deusas em Fúria</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527062500 -0300" stop="20200527082500 -0300" channel="TC CULT">
+    <title lang="pt">O Tradutor</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527082500 -0300" stop="20200527101500 -0300" channel="TC CULT">
+    <title lang="pt">Sete Homens e Um Destino 3</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200527101500 -0300" stop="20200527122000 -0300" channel="TC CULT">
+    <title lang="pt">Jogos de Guerra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200527122000 -0300" stop="20200527142000 -0300" channel="TC CULT">
+    <title lang="pt">Sua Última Façanha</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200527142000 -0300" stop="20200527155000 -0300" channel="TC CULT">
+    <title lang="pt">A Noiva Do Deserto</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527155000 -0300" stop="20200527173000 -0300" channel="TC CULT">
+    <title lang="pt">O Rio das Almas Perdidas</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200527173000 -0300" stop="20200527194500 -0300" channel="TC CULT">
+    <title lang="pt">Legalidade</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200527194500 -0300" stop="20200527220000 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Cine Classic: Terremoto</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527220000 -0300" stop="20200528001000 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Cine Classic: Heróis do Inferno</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528001000 -0300" stop="20200528025500 -0300" channel="TC CULT">
+    <title lang="pt">Bastardos Inglórios</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528025500 -0300" stop="20200528044500 -0300" channel="TC CULT">
+    <title lang="pt">O Terceiro Tiro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528044500 -0300" stop="20200528063500 -0300" channel="TC CULT">
+    <title lang="pt">Ilha dos Cachorros</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528063500 -0300" stop="20200528082000 -0300" channel="TC CULT">
+    <title lang="pt">A Extraordinária Jornada do Fakir</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528082000 -0300" stop="20200528100000 -0300" channel="TC CULT">
+    <title lang="pt">Três É Demais (1998)</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528100000 -0300" stop="20200528114500 -0300" channel="TC CULT">
+    <title lang="pt">O Orgulho</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528114500 -0300" stop="20200528141500 -0300" channel="TC CULT">
+    <title lang="pt">2001: Uma Odisséia No Espaço</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200528141500 -0300" stop="20200528161500 -0300" channel="TC CULT">
+    <title lang="pt">Amanda</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528161500 -0300" stop="20200528180000 -0300" channel="TC CULT">
+    <title lang="pt">Blácula, o Vampiro Negro</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200528180000 -0300" stop="20200528201000 -0300" channel="TC CULT">
+    <title lang="pt">Os Intocáveis</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528201000 -0300" stop="20200528220000 -0300" channel="TC CULT">
+    <title lang="pt">Uma Noite Não é Nada</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200528220000 -0300" stop="20200529012500 -0300" channel="TC CULT">
+    <title lang="pt">A Lista de Schindler</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529012500 -0300" stop="20200529033500 -0300" channel="TC CULT">
+    <title lang="pt">Os Pássaros</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200529033500 -0300" stop="20200529052500 -0300" channel="TC CULT">
+    <title lang="pt">Sete Homens e Um Destino 3</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200529052500 -0300" stop="20200529073000 -0300" channel="TC CULT">
+    <title lang="pt">O Insulto</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529073000 -0300" stop="20200529092000 -0300" channel="TC CULT">
+    <title lang="pt">O Terceiro Tiro</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529092000 -0300" stop="20200529111000 -0300" channel="TC CULT">
+    <title lang="pt">Ilha dos Cachorros</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200529111000 -0300" stop="20200529124500 -0300" channel="TC CULT">
+    <title lang="pt">Culpa</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200529124500 -0300" stop="20200529145500 -0300" channel="TC CULT">
+    <title lang="pt">O Vento nos Levará</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529145500 -0300" stop="20200529170000 -0300" channel="TC CULT">
+    <title lang="pt">Robocop 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529170000 -0300" stop="20200529201000 -0300" channel="TC CULT">
+    <title lang="pt">Spartacus (1960)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529201000 -0300" stop="20200529220000 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Novos Clássicos: Dirty Dancing - Ritmo Quente</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200529220000 -0300" stop="20200529235000 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Novos Clássicos: Alguém Muito Especial</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529235000 -0300" stop="20200530015000 -0300" channel="TC CULT">
+    <title lang="pt">Jogos, Trapaças e Dois Canos Fumegantes</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530015000 -0300" stop="20200530035000 -0300" channel="TC CULT">
+    <title lang="pt">Um Assunto de Mulheres</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530035000 -0300" stop="20200530053000 -0300" channel="TC CULT">
+    <title lang="pt">Três É Demais (1998)</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530053000 -0300" stop="20200530075000 -0300" channel="TC CULT">
+    <title lang="pt">Cortina Rasgada</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200530075000 -0300" stop="20200530093500 -0300" channel="TC CULT">
+    <title lang="pt">Manhattan</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530093500 -0300" stop="20200530112000 -0300" channel="TC CULT">
+    <title lang="pt">Deserto Em Fogo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200530112000 -0300" stop="20200530133000 -0300" channel="TC CULT">
+    <title lang="pt">Terremoto</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530133000 -0300" stop="20200530154000 -0300" channel="TC CULT">
+    <title lang="pt">Os Pássaros</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200530154000 -0300" stop="20200530175000 -0300" channel="TC CULT">
+    <title lang="pt">Os Intocáveis</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530175000 -0300" stop="20200530200000 -0300" channel="TC CULT">
+    <title lang="pt">Gigolô Americano</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530200000 -0300" stop="20200530220000 -0300" channel="TC CULT">
+    <title lang="pt">Blow-Up - Depois Daquele Beijo</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200530220000 -0300" stop="20200530234500 -0300" channel="TC CULT">
+    <title lang="pt">A Noite dos Mortos-vivos</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200530234500 -0300" stop="20200531013500 -0300" channel="TC CULT">
+    <title lang="pt">Irreversível</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200531013500 -0300" stop="20200531035500 -0300" channel="TC CULT">
+    <title lang="pt">Mamãezinha Querida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531035500 -0300" stop="20200531053500 -0300" channel="TC CULT">
+    <title lang="pt">A Incrível Jornada De Jacqueline</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531053500 -0300" stop="20200531072000 -0300" channel="TC CULT">
+    <title lang="pt">Os Gritos de Blácula</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200531072000 -0300" stop="20200531090000 -0300" channel="TC CULT">
+    <title lang="pt">Cléo Das 5 Às 7</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531090000 -0300" stop="20200531104500 -0300" channel="TC CULT">
+    <title lang="pt">O Estranho (1946)</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531104500 -0300" stop="20200531123500 -0300" channel="TC CULT">
+    <title lang="pt">Dirty Dancing - Ritmo Quente</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200531123500 -0300" stop="20200531142500 -0300" channel="TC CULT">
+    <title lang="pt">Parabéns, Clintão!: Por Um Punhado de Dólares</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200531142500 -0300" stop="20200531164500 -0300" channel="TC CULT">
+    <title lang="pt">Parabéns, Clintão!: Por Uns Dólares a Mais</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200531164500 -0300" stop="20200531195500 -0300" channel="TC CULT">
+    <title lang="pt">Parabéns, Clintão!: Três Homens em Conflito</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200531195500 -0300" stop="20200531220000 -0300" channel="TC CULT">
+    <title lang="pt">Parabéns, Clintão!: A Marca da Forca</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200531220000 -0300" stop="20200531235500 -0300" channel="TC CULT">
+    <title lang="pt">Parabéns, Clintão!: O Estranho Que Nós Amamos (1971)</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531235500 -0300" stop="20200601020000 -0300" channel="TC CULT">
+    <title lang="pt">Parabéns, Clintão!: O Último Golpe (1974)</title>
+    <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200525153500 -0300" stop="20200525180000 -0300" channel="TC FUN">
     <title lang="pt">Speed Racer</title>
@@ -184,6 +3012,338 @@
     <title lang="pt">Belas e Perseguidas</title>
     <category lang="pt">Filme/Ação</category>
   </programme>
+  <programme start="20200526012000 -0300" stop="20200526031000 -0300" channel="TC FUN">
+    <title lang="pt">Chips: O Filme</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526031000 -0300" stop="20200526050000 -0300" channel="TC FUN">
+    <title lang="pt">Eu Te Amo, Beth Cooper</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526050000 -0300" stop="20200526062500 -0300" channel="TC FUN">
+    <title lang="pt">Dc Super Hero Girls - Jogos Intergaláticos</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200526062500 -0300" stop="20200526075500 -0300" channel="TC FUN">
+    <title lang="pt">Os Jetsons e as Super-Estrelas do WWE</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200526075500 -0300" stop="20200526093500 -0300" channel="TC FUN">
+    <title lang="pt">Babe, o Porquinho Atrapalhado</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526093500 -0300" stop="20200526111500 -0300" channel="TC FUN">
+    <title lang="pt">A Creche Do Papai</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526111500 -0300" stop="20200526125500 -0300" channel="TC FUN">
+    <title lang="pt">Astro Kid</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200526125500 -0300" stop="20200526144000 -0300" channel="TC FUN">
+    <title lang="pt">Teenagers - as Apimentadas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526144000 -0300" stop="20200526162500 -0300" channel="TC FUN">
+    <title lang="pt">Vai Que Cola - O Filme</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526162500 -0300" stop="20200526180500 -0300" channel="TC FUN">
+    <title lang="pt">Shrek</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200526180500 -0300" stop="20200526195000 -0300" channel="TC FUN">
+    <title lang="pt">Shrek 2</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200526195000 -0300" stop="20200526220000 -0300" channel="TC FUN">
+    <title lang="pt">As Aventuras de Fujiwara Manchester - o Filme</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200527000000 -0300" channel="TC FUN">
+    <title lang="pt">Mudança de Hábito 2: Mais Loucuras no Convento</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527000000 -0300" stop="20200527014000 -0300" channel="TC FUN">
+    <title lang="pt">Minha Mãe é Uma Peça 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527014000 -0300" stop="20200527033000 -0300" channel="TC FUN">
+    <title lang="pt">O Retorno De Johnny English</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527033000 -0300" stop="20200527051500 -0300" channel="TC FUN">
+    <title lang="pt">O Pequenino</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527051500 -0300" stop="20200527070500 -0300" channel="TC FUN">
+    <title lang="pt">Mortdecai - A Arte Da Trapaça</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527070500 -0300" stop="20200527084500 -0300" channel="TC FUN">
+    <title lang="pt">Duas Vezes Cupido</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200527084500 -0300" stop="20200527103500 -0300" channel="TC FUN">
+    <title lang="pt">Abulele: Meu Amigo Monstro</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200527103500 -0300" stop="20200527123500 -0300" channel="TC FUN">
+    <title lang="pt">O Que Esperar Quando Você Está Esperando</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527123500 -0300" stop="20200527125000 -0300" channel="TC FUN">
+    <title lang="pt">Meu Malvado Favorito Apresenta: Loucuras dos Minions</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527125000 -0300" stop="20200527144000 -0300" channel="TC FUN">
+    <title lang="pt">Uma Floresta Muito Louca</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527144000 -0300" stop="20200527162000 -0300" channel="TC FUN">
+    <title lang="pt">A Era do Gelo 3</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527162000 -0300" stop="20200527175500 -0300" channel="TC FUN">
+    <title lang="pt">Horton E O Mundo Dos Quem!</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527175500 -0300" stop="20200527192000 -0300" channel="TC FUN">
+    <title lang="pt">Tito e os Pássaros</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527192000 -0300" stop="20200527220000 -0300" channel="TC FUN">
+    <title lang="pt">Harry Potter e o Prisioneiro de Azkaban</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200527220000 -0300" stop="20200527234500 -0300" channel="TC FUN">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527234500 -0300" stop="20200528012500 -0300" channel="TC FUN">
+    <title lang="pt">Um Maluco no Golfe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528012500 -0300" stop="20200528030500 -0300" channel="TC FUN">
+    <title lang="pt">Casados Com O Azar</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528030500 -0300" stop="20200528044000 -0300" channel="TC FUN">
+    <title lang="pt">Gato Sórdido</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528044000 -0300" stop="20200528061000 -0300" channel="TC FUN">
+    <title lang="pt">Um Virgem de 41 Anos Ligeiramente em Apuros</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528061000 -0300" stop="20200528075000 -0300" channel="TC FUN">
+    <title lang="pt">De Volta à Ilha da Imaginação</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200528075000 -0300" stop="20200528093000 -0300" channel="TC FUN">
+    <title lang="pt">O Ratinho Perez 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528093000 -0300" stop="20200528110000 -0300" channel="TC FUN">
+    <title lang="pt">Os Jetsons e as Super-Estrelas do WWE</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528110000 -0300" stop="20200528122500 -0300" channel="TC FUN">
+    <title lang="pt">Dc Super Hero Girls - Jogos Intergaláticos</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528122500 -0300" stop="20200528142500 -0300" channel="TC FUN">
+    <title lang="pt">Mudança de Hábito 2: Mais Loucuras no Convento</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528142500 -0300" stop="20200528162500 -0300" channel="TC FUN">
+    <title lang="pt">High School Band</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528162500 -0300" stop="20200528180500 -0300" channel="TC FUN">
+    <title lang="pt">Belas e Perseguidas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528180500 -0300" stop="20200528201500 -0300" channel="TC FUN">
+    <title lang="pt">As Aventuras de Fujiwara Manchester - o Filme</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528201500 -0300" stop="20200528220000 -0300" channel="TC FUN">
+    <title lang="pt">Valente</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528220000 -0300" stop="20200528233500 -0300" channel="TC FUN">
+    <title lang="pt">Snoopy &amp; Charlie Brown - Peanuts, o Filme</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528233500 -0300" stop="20200529013000 -0300" channel="TC FUN">
+    <title lang="pt">Uma Dobra No Tempo</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200529013000 -0300" stop="20200529031500 -0300" channel="TC FUN">
+    <title lang="pt">A Ressaca</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529031500 -0300" stop="20200529050000 -0300" channel="TC FUN">
+    <title lang="pt">Hunter x Hunter: A Última Missão</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200529050000 -0300" stop="20200529064000 -0300" channel="TC FUN">
+    <title lang="pt">Alibi.Com</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529064000 -0300" stop="20200529082000 -0300" channel="TC FUN">
+    <title lang="pt">O Ajudante do Papai Noel</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529082000 -0300" stop="20200529101500 -0300" channel="TC FUN">
+    <title lang="pt">O Candidato Honesto</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529101500 -0300" stop="20200529115500 -0300" channel="TC FUN">
+    <title lang="pt">De Volta à Ilha da Imaginação</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200529115500 -0300" stop="20200529132500 -0300" channel="TC FUN">
+    <title lang="pt">Marvel Rising: Guerreiros Secretos</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200529132500 -0300" stop="20200529150500 -0300" channel="TC FUN">
+    <title lang="pt">Um Maluco no Golfe</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529150500 -0300" stop="20200529164500 -0300" channel="TC FUN">
+    <title lang="pt">Minha Mãe é Uma Peça 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529164500 -0300" stop="20200529182500 -0300" channel="TC FUN">
+    <title lang="pt">Johnny English</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529182500 -0300" stop="20200529201000 -0300" channel="TC FUN">
+    <title lang="pt">A Era do Gelo 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200529201000 -0300" stop="20200529220000 -0300" channel="TC FUN">
+    <title lang="pt">De Repente 30</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529220000 -0300" stop="20200530001500 -0300" channel="TC FUN">
+    <title lang="pt">A Bela e a Fera (2017)</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530001500 -0300" stop="20200530020000 -0300" channel="TC FUN">
+    <title lang="pt">Festa No Céu</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530020000 -0300" stop="20200530034000 -0300" channel="TC FUN">
+    <title lang="pt">O Fada do Dente 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530034000 -0300" stop="20200530052000 -0300" channel="TC FUN">
+    <title lang="pt">O Ratinho Perez 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530052000 -0300" stop="20200530070000 -0300" channel="TC FUN">
+    <title lang="pt">Um Herói de Brinquedo 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530070000 -0300" stop="20200530083500 -0300" channel="TC FUN">
+    <title lang="pt">Gato Sórdido</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530083500 -0300" stop="20200530101500 -0300" channel="TC FUN">
+    <title lang="pt">Spooky Buddies: A Casa Mal-Assombrada</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530101500 -0300" stop="20200530115000 -0300" channel="TC FUN">
+    <title lang="pt">Horton E O Mundo Dos Quem!</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530115000 -0300" stop="20200530133500 -0300" channel="TC FUN">
+    <title lang="pt">Valente</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530133500 -0300" stop="20200530152500 -0300" channel="TC FUN">
+    <title lang="pt">Meu Malvado Favorito 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530152500 -0300" stop="20200530180000 -0300" channel="TC FUN">
+    <title lang="pt">Harry Potter e o Prisioneiro de Azkaban</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530180000 -0300" stop="20200530200500 -0300" channel="TC FUN">
+    <title lang="pt">Descendentes 3</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200530200500 -0300" stop="20200530220000 -0300" channel="TC FUN">
+    <title lang="pt">Detona Ralph</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530220000 -0300" stop="20200530234000 -0300" channel="TC FUN">
+    <title lang="pt">Trolls</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530234000 -0300" stop="20200531012000 -0300" channel="TC FUN">
+    <title lang="pt">Um Pobretão Na Casa Branca</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531012000 -0300" stop="20200531030000 -0300" channel="TC FUN">
+    <title lang="pt">Muita Calma Nessa Hora 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531030000 -0300" stop="20200531044000 -0300" channel="TC FUN">
+    <title lang="pt">Os Esquenta-banco 2 - Quebrando as Bolas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531044000 -0300" stop="20200531062000 -0300" channel="TC FUN">
+    <title lang="pt">Doces Ou Travessuras</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531062000 -0300" stop="20200531074500 -0300" channel="TC FUN">
+    <title lang="pt">A Princesa e o Dragão</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531074500 -0300" stop="20200531091500 -0300" channel="TC FUN">
+    <title lang="pt">Marvel Rising: Guerreiros Secretos</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531091500 -0300" stop="20200531111000 -0300" channel="TC FUN">
+    <title lang="pt">Imagine Só!</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531111000 -0300" stop="20200531125000 -0300" channel="TC FUN">
+    <title lang="pt">A Era do Gelo 2</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531125000 -0300" stop="20200531144000 -0300" channel="TC FUN">
+    <title lang="pt">De Repente 30</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531144000 -0300" stop="20200531170000 -0300" channel="TC FUN">
+    <title lang="pt">A Bela e a Fera (2017)</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531170000 -0300" stop="20200531184500 -0300" channel="TC FUN">
+    <title lang="pt">Festa No Céu</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531184500 -0300" stop="20200531202000 -0300" channel="TC FUN">
+    <title lang="pt">Snoopy &amp; Charlie Brown - Peanuts, o Filme</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531202000 -0300" stop="20200531220000 -0300" channel="TC FUN">
+    <title lang="pt">Especial Jack Black: as Viagens de Gulliver</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531220000 -0300" stop="20200531235500 -0300" channel="TC FUN">
+    <title lang="pt">Especial Jack Black: O Mistério do Relógio na Parede</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531235500 -0300" stop="20200601013500 -0300" channel="TC FUN">
+    <title lang="pt">Especial Jack Black: Nacho Libre</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
   <programme start="20200525175000 -0300" stop="20200525200000 -0300" channel="TC PIPOCA">
     <title lang="pt">Tomb Raider: A Origem</title>
     <category lang="pt">Filme/Ação</category>
@@ -200,6 +3360,310 @@
     <title lang="pt">Pequenos Monstros</title>
     <category lang="pt">Filme/Comédia</category>
   </programme>
+  <programme start="20200526013000 -0300" stop="20200526033500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Do Que os Homens Gostam</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526033500 -0300" stop="20200526051500 -0300" channel="TC PIPOCA">
+    <title lang="pt">A Casa Caiu: Um Cassino na Vizinhança</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526051500 -0300" stop="20200526065000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Amantes e Traições</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526065000 -0300" stop="20200526083000 -0300" channel="TC PIPOCA">
+    <title lang="pt">O Velho e a Arma</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526083000 -0300" stop="20200526102000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Dragon Ball Super: Broly - o Filme</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200526102000 -0300" stop="20200526120500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Decisão De Risco</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526120500 -0300" stop="20200526135500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Cortina de Fogo 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526135500 -0300" stop="20200526154500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Lutador Misterioso</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526154500 -0300" stop="20200526180500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Creed II</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526180500 -0300" stop="20200526195000 -0300" channel="TC PIPOCA">
+    <title lang="pt">15h17: Trem Para Paris</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526195000 -0300" stop="20200526220000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Atentado ao Hotel Taj Mahal</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200527001000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527001000 -0300" stop="20200527020500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Black Water - Perigo no Oceano</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527020500 -0300" stop="20200527035000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Ma (2019)</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200527035000 -0300" stop="20200527053000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Uma Quase Dupla</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527053000 -0300" stop="20200527070500 -0300" channel="TC PIPOCA">
+    <title lang="pt">O Céu Pode Esperar (2001)</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527070500 -0300" stop="20200527090500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Chacrinha - O Velho Guerreiro</title>
+    <category lang="pt">Filme/Biografia</category>
+  </programme>
+  <programme start="20200527090500 -0300" stop="20200527104500 -0300" channel="TC PIPOCA">
+    <title lang="pt">A Hora do Rush 3</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527104500 -0300" stop="20200527123000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Escola de Espiões (2015)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527123000 -0300" stop="20200527142000 -0300" channel="TC PIPOCA">
+    <title lang="pt">My Hero Academia: 2 Heróis - O Filme</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527142000 -0300" stop="20200527161000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Uma Aventura Lego</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200527161000 -0300" stop="20200527181000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Operação Supletivo</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527181000 -0300" stop="20200527200500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Não Se Aceitam Devoluções</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200527200500 -0300" stop="20200527220000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Ela Dança, Eu Danço</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200527220000 -0300" stop="20200527235500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Meu Amigo Enzo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527235500 -0300" stop="20200528020000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Jumanji: Bem-vindo à Selva</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200528020000 -0300" stop="20200528021000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Jurassic World: A Batalha de Big Rock</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200528021000 -0300" stop="20200528034500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Um Lugar Silencioso</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200528034500 -0300" stop="20200528052500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Pedido de Amizade</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200528052500 -0300" stop="20200528074500 -0300" channel="TC PIPOCA">
+    <title lang="pt">007 - Um Novo Dia Para Morrer</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528074500 -0300" stop="20200528093500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Roubo nas Alturas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528093500 -0300" stop="20200528111500 -0300" channel="TC PIPOCA">
+    <title lang="pt">No Limite (2017)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528111500 -0300" stop="20200528132000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Tomb Raider: A Origem</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528132000 -0300" stop="20200528151000 -0300" channel="TC PIPOCA">
+    <title lang="pt">O Amor Dá Trabalho</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528151000 -0300" stop="20200528170500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Para Sempre</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200528170500 -0300" stop="20200528190300 -0300" channel="TC PIPOCA">
+    <title lang="pt">Meu Amigo Enzo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528190300 -0300" stop="20200528210000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Jumanji: Bem-vindo à Selva</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200528210000 -0300" stop="20200528225000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Sessão Fique em Casa: Caçada Brutal</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528225000 -0300" stop="20200529004500 -0300" channel="TC PIPOCA">
+    <title lang="pt">O Predador (2018)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529004500 -0300" stop="20200529024000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Corrida Mortal</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529024000 -0300" stop="20200529044000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Operação Overlord</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529044000 -0300" stop="20200529065500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Sin City - A Cidade Do Pecado</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200529065500 -0300" stop="20200529091500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Jogos Vorazes: A Esperança - O Final</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529091500 -0300" stop="20200529114000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Hulk</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529114000 -0300" stop="20200529132500 -0300" channel="TC PIPOCA">
+    <title lang="pt">15h17: Trem Para Paris</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529132500 -0300" stop="20200529161500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Blade Runner 2049</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200529161500 -0300" stop="20200529182500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Fúria em Alto Mar</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529182500 -0300" stop="20200529200500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Uma Quase Dupla</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529200500 -0300" stop="20200529220000 -0300" channel="TC PIPOCA">
+    <title lang="pt">O Predador (2018)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529220000 -0300" stop="20200529234500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Casamento Sangrento</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200529234500 -0300" stop="20200530014500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Vingança (2017)</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200530014500 -0300" stop="20200530032500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Parque do Inferno</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200530032500 -0300" stop="20200530052000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Halloween (2018)</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200530052000 -0300" stop="20200530070500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Estado de Calamidade</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530070500 -0300" stop="20200530090500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Megan Leavey</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530090500 -0300" stop="20200530114500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Transformers: O Lado Oculto Da Lua</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530114500 -0300" stop="20200530134000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Táxi 5</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530134000 -0300" stop="20200530152500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Apenas o Começo</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530152500 -0300" stop="20200530172000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Ela Dança, Eu Danço</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200530172000 -0300" stop="20200530194000 -0300" channel="TC PIPOCA">
+    <title lang="pt">A Cabana</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530194000 -0300" stop="20200530220000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Papillon</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530220000 -0300" stop="20200531001000 -0300" channel="TC PIPOCA">
+    <title lang="pt">John Wick: Um Novo Dia Para Matar</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531001000 -0300" stop="20200531023000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Cidade de Deus</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531023000 -0300" stop="20200531041000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Maligno</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200531041000 -0300" stop="20200531060500 -0300" channel="TC PIPOCA">
+    <title lang="pt">País da Violência</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531060500 -0300" stop="20200531074500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Segredos e Despedidas</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531074500 -0300" stop="20200531093500 -0300" channel="TC PIPOCA">
+    <title lang="pt">O Homem Que Inventou O Natal</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531093500 -0300" stop="20200531113500 -0300" channel="TC PIPOCA">
+    <title lang="pt">High School Musical 3: Ano da Formatura</title>
+    <category lang="pt">Filme/Musical</category>
+  </programme>
+  <programme start="20200531113500 -0300" stop="20200531131000 -0300" channel="TC PIPOCA">
+    <title lang="pt">A Estrela de Belém</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531131000 -0300" stop="20200531145500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Big Pai, Big Filho</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531145500 -0300" stop="20200531163000 -0300" channel="TC PIPOCA">
+    <title lang="pt">O Grinch (2018)</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200531163000 -0300" stop="20200531181000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Pedro Coelho</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531181000 -0300" stop="20200531200000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Combo Duplo os Parças: Os Parças</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531200000 -0300" stop="20200531215000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Os Parças 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531215000 -0300" stop="20200531235500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Homem-formiga e a Vespa</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531235500 -0300" stop="20200601021500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Truque de Mestre: O 2º Ato</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
   <programme start="20200525154000 -0300" stop="20200525180500 -0300" channel="TC PREMIUM">
     <title lang="pt">Homens de Coragem (2017)</title>
     <category lang="pt">Filme/Drama</category>
@@ -215,5 +3679,305 @@
   <programme start="20200525220000 -0300" stop="20200526000000 -0300" channel="TC PREMIUM">
     <title lang="pt">Tempestade: Planeta em Fúria</title>
     <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526000000 -0300" stop="20200526020000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Tripla Ameaça</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526020000 -0300" stop="20200526042500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Maus Momentos No Hotel Royale</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200526042500 -0300" stop="20200526060500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Cruise: Destino em Colisão</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526060500 -0300" stop="20200526075500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Dormindo Com As Outras Pessoas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200526075500 -0300" stop="20200526100000 -0300" channel="TC PREMIUM">
+    <title lang="pt">A Favorita</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526100000 -0300" stop="20200526115000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Sem Palavras</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526115000 -0300" stop="20200526140000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Roman J. Israel</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200526140000 -0300" stop="20200526153500 -0300" channel="TC PREMIUM">
+    <title lang="pt">211: O Grande Assalto</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526153500 -0300" stop="20200526174000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Hellboy (2019)</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526174000 -0300" stop="20200526201000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Velozes &amp; Furiosos: Hobbs &amp; Shaw</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200526201000 -0300" stop="20200526220000 -0300" channel="TC PREMIUM">
+    <title lang="pt">O Sol Também é Uma Estrela</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200526220000 -0300" stop="20200527000000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Cadê Você, Bernadette?</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527000000 -0300" stop="20200527015000 -0300" channel="TC PREMIUM">
+    <title lang="pt">O Poder e o Impossível</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527015000 -0300" stop="20200527033000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Presas no Paraíso</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527033000 -0300" stop="20200527051500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Os Assassinatos de Amityville</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200527051500 -0300" stop="20200527070000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Zoo: Uma Amizade Maior Que a Vida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527070000 -0300" stop="20200527090000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Lutando Pela Família</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527090000 -0300" stop="20200527110500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Sob o Sol do Oeste</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200527110500 -0300" stop="20200527133000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Z: A Cidade Perdida</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200527133000 -0300" stop="20200527160000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Detroit Em Rebelião</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200527160000 -0300" stop="20200527174500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Tripla Ameaça</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527174500 -0300" stop="20200527193000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Rota de Fuga 3 - O Resgate</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527193000 -0300" stop="20200527220000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Mulher-maravilha</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527220000 -0300" stop="20200527234000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Os Guardiões</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200527234000 -0300" stop="20200528013500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528013500 -0300" stop="20200528031500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Os Curados</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200528031500 -0300" stop="20200528045500 -0300" channel="TC PREMIUM">
+    <title lang="pt">60 Minutos Para Morrer</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200528045500 -0300" stop="20200528070500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Roman J. Israel</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528070500 -0300" stop="20200528084000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Astérix e o Segredo da Poção Mágica</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200528084000 -0300" stop="20200528105000 -0300" channel="TC PREMIUM">
+    <title lang="pt">O Menino Que Queria Ser Rei</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200528105000 -0300" stop="20200528124500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Justiça Sem Fronteiras</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528124500 -0300" stop="20200528142500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Mulheres Alteradas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528142500 -0300" stop="20200528162500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Cadê Você, Bernadette?</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528162500 -0300" stop="20200528182500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Tempestade: Planeta em Fúria</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200528182500 -0300" stop="20200528200000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Sai de Baixo - o Filme</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200528200000 -0300" stop="20200528220000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Jt Leroy - Escritor Fantasma</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200528220000 -0300" stop="20200529002500 -0300" channel="TC PREMIUM">
+    <title lang="pt">It: A Coisa</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200529002500 -0300" stop="20200529020500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Invasão</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529020500 -0300" stop="20200529040000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Meus Dias de Compaixão</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529040000 -0300" stop="20200529054500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Café Society (2016)</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200529054500 -0300" stop="20200529081000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Z: A Cidade Perdida</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200529081000 -0300" stop="20200529102000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Minha Fama de Mau</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529102000 -0300" stop="20200529121500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Tolkien</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529121500 -0300" stop="20200529140000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Rota de Fuga 3 - O Resgate</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529140000 -0300" stop="20200529162500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Mulher-maravilha</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200529162500 -0300" stop="20200529181500 -0300" channel="TC PREMIUM">
+    <title lang="pt">O Sol Também é Uma Estrela</title>
+    <category lang="pt">Filme/Romance</category>
+  </programme>
+  <programme start="20200529181500 -0300" stop="20200529200500 -0300" channel="TC PREMIUM">
+    <title lang="pt">O Poder e o Impossível</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200529200500 -0300" stop="20200529220000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Minha Vida Em Marte</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529220000 -0300" stop="20200529235000 -0300" channel="TC PREMIUM">
+    <title lang="pt">A Noite do Jogo</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200529235000 -0300" stop="20200530014500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Meu Amigo Enzo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530014500 -0300" stop="20200530034000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Jt Leroy - Escritor Fantasma</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530034000 -0300" stop="20200530052000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Autodestruição</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200530052000 -0300" stop="20200530072000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Fé Corrompida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530072000 -0300" stop="20200530090000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Mulheres Alteradas</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530090000 -0300" stop="20200530103500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Sai de Baixo - o Filme</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530103500 -0300" stop="20200530123000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Jornada da Vida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530123000 -0300" stop="20200530142000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Sobrenatural: A Última Chave</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200530142000 -0300" stop="20200530160000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Os Guardiões</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530160000 -0300" stop="20200530175500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Meu Amigo Enzo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200530175500 -0300" stop="20200530195000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Como Treinar o Seu Dragão 3</title>
+    <category lang="pt">Filme/Animação</category>
+  </programme>
+  <programme start="20200530195000 -0300" stop="20200530220000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Power Rangers</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200530220000 -0300" stop="20200530235000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Os Parças 2</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200530235000 -0300" stop="20200531014500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Fora de Série</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531014500 -0300" stop="20200531041000 -0300" channel="TC PREMIUM">
+    <title lang="pt">It: A Coisa</title>
+    <category lang="pt">Filme/Terror</category>
+  </programme>
+  <programme start="20200531041000 -0300" stop="20200531055000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Espectador Profissional</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531055000 -0300" stop="20200531073000 -0300" channel="TC PREMIUM">
+    <title lang="pt">O Resgate de Uma Vida</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531073000 -0300" stop="20200531091500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Andron: Labirinto Negro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531091500 -0300" stop="20200531105500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Belle e Sebastian - Amigos Para Sempre</title>
+    <category lang="pt">Filme/Aventura</category>
+  </programme>
+  <programme start="20200531105500 -0300" stop="20200531124000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Minha Irmã de Paris</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531124000 -0300" stop="20200531143500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Roda Gigante</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200531143500 -0300" stop="20200531163000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Minha Vida Em Marte</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531163000 -0300" stop="20200531181000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Invasão</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531181000 -0300" stop="20200531200000 -0300" channel="TC PREMIUM">
+    <title lang="pt">A Noite do Jogo</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200531200000 -0300" stop="20200531220000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Rampage: Destruição Total</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200531220000 -0300" stop="20200601000000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Superação: O Milagre da Fé</title>
+    <category lang="pt">Filme/Drama</category>
   </programme>
 </tv>
