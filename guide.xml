@@ -2,32 +2,218 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="AXN">
     <display-name lang="pt">AXN</display-name>
-    <url>http://www.clarotv.com.br</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="AMC">
     <display-name lang="pt">AMC</display-name>
-    <icon src="https://www.lineup.tv.br/canais/e.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="A&amp;E">
     <display-name lang="pt">A&amp;E</display-name>
-    <icon src="https://www.lineup.tv.br/canais/1588086963.gif" />
-    <url>http://www.lineup.net.br</url>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="CANAL BRASIL">
+    <display-name lang="pt">CANAL BRASIL</display-name>
+    <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TC ACTION">
     <display-name lang="pt">TC ACTION</display-name>
     <url>http://www.meuguia.tv</url>
   </channel>
+  <channel id="TC CULT">
+    <display-name lang="pt">TC CULT</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC FUN">
+    <display-name lang="pt">TC FUN</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC PIPOCA">
+    <display-name lang="pt">TC PIPOCA</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <channel id="TC PREMIUM">
+    <display-name lang="pt">TC PREMIUM</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200525172500 -0300" stop="20200525182000 -0300" channel="AXN">
+    <title lang="pt">C.S.I. Miami</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525182000 -0300" stop="20200525191500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200525191500 -0300" stop="20200525200500 -0300" channel="AXN">
+    <title lang="pt">Hawaii Five-0</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200525200500 -0300" stop="20200525210500 -0300" channel="AXN">
+    <title lang="pt">NCIS</title>
+    <category lang="pt">Séries/Ação</category>
+  </programme>
+  <programme start="20200525210500 -0300" stop="20200525220000 -0300" channel="AXN">
+    <title lang="pt">Criminal Minds</title>
+    <category lang="pt">Séries/Suspense</category>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200525225500 -0300" channel="AXN">
+    <title lang="pt">Lincoln Rhyme: Hunt For The Bone Collector</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200525225500 -0300" stop="20200525234500 -0300" channel="AXN">
+    <title lang="pt">Harrow</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200525234500 -0300" stop="20200526001500 -0300" channel="AXN">
+    <title lang="pt">Sem Rastro</title>
+    <category lang="pt">Séries/Investigação</category>
+  </programme>
+  <programme start="20200525175500 -0300" stop="20200525192000 -0300" channel="AMC">
+    <title lang="pt">Cada Vez Mais Longe</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525192000 -0300" stop="20200525204500 -0300" channel="AMC">
+    <title lang="pt">Hotel Mundial</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525204500 -0300" stop="20200525223000 -0300" channel="AMC">
+    <title lang="pt">Hancock</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525223000 -0300" stop="20200526002000 -0300" channel="AMC">
+    <title lang="pt">Os Mercenários 2</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200525174500 -0300" stop="20200525181500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200525181500 -0300" stop="20200525184500 -0300" channel="A&amp;E">
+    <title lang="pt">Polícia ao Vivo: Melhores Momentos</title>
+    <category lang="pt">Séries/Reality Show</category>
+  </programme>
+  <programme start="20200525184500 -0300" stop="20200525202000 -0300" channel="A&amp;E">
+    <title lang="pt">Toro</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200525202000 -0300" stop="20200525211000 -0300" channel="A&amp;E">
+    <title lang="pt">Emergências Noturnas</title>
+    <category lang="pt">Séries/Drama</category>
+  </programme>
+  <programme start="20200525211000 -0300" stop="20200525220000 -0300" channel="A&amp;E">
+    <title lang="pt">Metrópole</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200525225000 -0300" channel="A&amp;E">
+    <title lang="pt">Cold Case</title>
+    <category lang="pt">Séries/Policial</category>
+  </programme>
+  <programme start="20200525225000 -0300" stop="20200526005500 -0300" channel="A&amp;E">
+    <title lang="pt">Alien - O Oitavo Passageiro</title>
+    <category lang="pt">Filme/Ficção</category>
+  </programme>
+  <programme start="20200525162000 -0300" stop="20200525180000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Jeitosinha</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525180000 -0300" stop="20200525193500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Faixa Musical: João Bosco - Abricó de Macaco</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200525193500 -0300" stop="20200525212500 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Através da Sombra</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200525212500 -0300" stop="20200525230000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">Irmã Dulce</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525230000 -0300" stop="20200525233000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">O Som do Vinil</title>
+    <category lang="pt">Variedades/Musical</category>
+  </programme>
+  <programme start="20200525233000 -0300" stop="20200526000000 -0300" channel="CANAL BRASIL">
+    <title lang="pt">A Arte do Encontro</title>
+    <category lang="pt">Variedades/Entrevista</category>
+  </programme>
   <programme start="20200525162500 -0300" stop="20200525180000 -0300" channel="TC ACTION">
     <title lang="pt">Dia do Orgulho Nerd: Dragonball Evolution</title>
+    <category lang="pt">Filme/Aventura</category>
   </programme>
   <programme start="20200525180000 -0300" stop="20200525202000 -0300" channel="TC ACTION">
     <title lang="pt">Dia do Orgulho Nerd: Han Solo: Uma História Star Wars</title>
+    <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200525202000 -0300" stop="20200525220000 -0300" channel="TC ACTION">
     <title lang="pt">Dia do Orgulho Nerd: Quarteto Fantástico e o Surfista Prateado</title>
+    <category lang="pt">Filme/Ação</category>
   </programme>
   <programme start="20200525220000 -0300" stop="20200526003000 -0300" channel="TC ACTION">
     <title lang="pt">Dia do Orgulho Nerd: X-men: Apocalipse</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200525175000 -0300" stop="20200525194000 -0300" channel="TC CULT">
+    <title lang="pt">Deslembro</title>
+    <category lang="pt">Variedades/Diversos</category>
+  </programme>
+  <programme start="20200525194000 -0300" stop="20200525220000 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Bang Bang: El Dorado</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200526000000 -0300" channel="TC CULT">
+    <title lang="pt">Sessão Bang Bang: Sua Última Façanha</title>
+    <category lang="pt">Filme/Western</category>
+  </programme>
+  <programme start="20200525153500 -0300" stop="20200525180000 -0300" channel="TC FUN">
+    <title lang="pt">Speed Racer</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200525180000 -0300" stop="20200525195500 -0300" channel="TC FUN">
+    <title lang="pt">Tiras, Só Que Não</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525195500 -0300" stop="20200525220000 -0300" channel="TC FUN">
+    <title lang="pt">High School Band</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200525234000 -0300" channel="TC FUN">
+    <title lang="pt">Johnny English</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525234000 -0300" stop="20200526012000 -0300" channel="TC FUN">
+    <title lang="pt">Belas e Perseguidas</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200525175000 -0300" stop="20200525200000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Tomb Raider: A Origem</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200525200000 -0300" stop="20200525220000 -0300" channel="TC PIPOCA">
+    <title lang="pt">O Doutrinador</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200525234500 -0300" channel="TC PIPOCA">
+    <title lang="pt">Ma (2019)</title>
+    <category lang="pt">Filme/Suspense</category>
+  </programme>
+  <programme start="20200525234500 -0300" stop="20200526013000 -0300" channel="TC PIPOCA">
+    <title lang="pt">Pequenos Monstros</title>
+    <category lang="pt">Filme/Comédia</category>
+  </programme>
+  <programme start="20200525154000 -0300" stop="20200525180500 -0300" channel="TC PREMIUM">
+    <title lang="pt">Homens de Coragem (2017)</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525180500 -0300" stop="20200525200500 -0300" channel="TC PREMIUM">
+    <title lang="pt">X-men: Fênix Negra</title>
+    <category lang="pt">Filme/Ação</category>
+  </programme>
+  <programme start="20200525200500 -0300" stop="20200525220000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Meu Amigo Enzo</title>
+    <category lang="pt">Filme/Drama</category>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200526000000 -0300" channel="TC PREMIUM">
+    <title lang="pt">Tempestade: Planeta em Fúria</title>
+    <category lang="pt">Filme/Ação</category>
   </programme>
 </tv>
