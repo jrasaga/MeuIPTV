@@ -1,0 +1,47 @@
+#EXTM3U
+
+#######FILMES E SERIES#######
+#EXTINF:-1, group-title="FILMES/SERIES", AXN
+Http://23.237.78.82:30010/streams/181_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", AMC
+http://23.237.78.82:30010/streams/3_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", A&E
+http://23.237.78.82:30010/streams/157_.m3u8?|user-agent=n.TV
+#EXTINF:-1, grou-title="FILMES/SERIES", CANAL BRASIL
+http://51.161.119.169:25461/live/gM4UUJa36tWh3k/KeQ8X7PxJsC5/51.m3u8?token=QhANVRFYGgxECQxWWgNVBA8EUQ4HBVZZAVZQAQxTC1NaC1RRBAlZAlQbGRZKRxMEVlg8XgUXCVRUSEZGRwBAOlBWRw5AARoaRE1cWVwRW1EbFxNeBRcJQ1RUUgsERx5HXEoRURBeWVo5XVBCUFAEQw1bFlsNGREOCzsAVlkEXAEbCEcEQBwaXxVJFw5XRg0NGxcBXhVHUhUARl4RDFMBRxUQBlsXXkxEHxsPFnthQ00VUBtDBFtACAoKRgkWCAEQARBJFgtDZ0QDSkFGXFIMBEUXWRVRFx9DCAUcbFcKXAtcURFdDV5LFFwbBRYVEQwOWVwXWBNqQwgBRl4RBlcDUwEQGA==
+#EXTINF:-1, group-title="FILMES/SERIES", TC ACTION
+http://23.237.78.82:30010/streams/213_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", TC PIPOCA
+http://23.237.78.82:30010/streams/208_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", TC FUN
+http://23.237.78.82:30010/streams/206_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", TC CULT
+http://live.goldpremium.xyz/FutucaTV02/vjd639094ens7654f66/1202
+#EXTINF:-1, group-title="FILMES/SERIES", TC PREMIUM
+http://23.237.78.82:30010/streams/210_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", HBO
+http://23.237.78.82:30010/streams/185_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", HBO 2
+http://23.237.78.82:30010/streams/187_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", HBO FAMILY
+http://23.237.78.82:30010/streams/193_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", HBO PLUS
+http://23.237.78.82:30010/streams/189_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", HBO MUNDI
+http://23.237.78.82:30010/streams/195_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", HBO EXTREME
+http://23.237.78.82:30010/streams/7_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", HBO POP
+http://23.237.78.82:30010/streams/183_.m3u8?|user-agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", FX
+http://23.237.78.82:30010/streams/112_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", FOX
+http://23.237.78.82:30010/streams/161_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", FOX LIFE
+http://23.237.78.82:30010/streams/163_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", FOX PREMIUM 1
+http://23.237.78.82:30010/streams/165_.m3u8?|User-Agent=n.TV
+#EXTINF:-1, group-title="FILMES/SERIES", FOX PREMIUM 2
+http://cdn1.srvpok.gq:8080/ssSKSaosdisausSSDsa2376sddaAAA/token==aAkdJ45Jaaa98pPPqq98QwXDXz/31?token=TkEJUBVfGl8UUVVSAVNbA1YAUFkFClJQBgVVUldWWVAAV1gABVIJUgQRTxFKQUoAVAluCFcQClICHUYRFgATaVwHQwtEBhpJFEcKXlwXAlQAXQFSBAIIVwYdRhQMAUMMF1ZXBFcPGkkUVhtHXEdWBFk7VQRFW1MEEQsKEQkJTRRaDT5VA1pZC1IRWREJFxRHXBdBQwlcRQ1fHUYGDBETV0EGQwtEBgBWBBFPEVpaTQtBFkhDCRByMxEdRgEdEQRYRgoOX0QNGhFFEU8RUEZnF1AXRRNWU10EQRNeRlVHTRRYAhluBVhWC1NQF1pWW0tHD0YBQx8QXQ5dWBALFzoRX1FBWxNXAApVFE4?|User-Agent=ExoPlayerDemo/18.7.4
+#EXTINF:-1, group-title="FILMES/SERIES", UNIVERSAL CHANNEL
+http://23.237.78.82:30010/streams/177_.m3u8?|User-Agent=n.TV
