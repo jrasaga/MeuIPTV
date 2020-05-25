@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.0.0.0 -- build 3 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <icon src="https://www.lineup.tv.br/canais/e.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <icon src="https://www.lineup.tv.br/canais/1588086963.gif" />
+    <url>http://www.lineup.net.br</url>
+  </channel>
+  <channel id="TC ACTION">
+    <display-name lang="pt">TC ACTION</display-name>
+    <url>http://www.meuguia.tv</url>
+  </channel>
+  <programme start="20200525162500 -0300" stop="20200525180000 -0300" channel="TC ACTION">
+    <title lang="pt">Dia do Orgulho Nerd: Dragonball Evolution</title>
+  </programme>
+  <programme start="20200525180000 -0300" stop="20200525202000 -0300" channel="TC ACTION">
+    <title lang="pt">Dia do Orgulho Nerd: Han Solo: Uma História Star Wars</title>
+  </programme>
+  <programme start="20200525202000 -0300" stop="20200525220000 -0300" channel="TC ACTION">
+    <title lang="pt">Dia do Orgulho Nerd: Quarteto Fantástico e o Surfista Prateado</title>
+  </programme>
+  <programme start="20200525220000 -0300" stop="20200526003000 -0300" channel="TC ACTION">
+    <title lang="pt">Dia do Orgulho Nerd: X-men: Apocalipse</title>
+  </programme>
+</tv>
