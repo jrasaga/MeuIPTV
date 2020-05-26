@@ -4,3 +4,9 @@
 http://a.srvbr.me:8880/live/138883/138883/4203.m3u8?|User-Agent=ExoPlayerLib/2.8.4
 #EXTINF:-', group-title="FILMES/SERIES", AMC
 http://a.srvbr.me:8880/live/138883/138883/5076.m3u8?|User-Agent=ExoPlayerLib/2.8.4
+#EXTINF:-1, group-title="FILMES/SERIES", AXN
+http://a.srvbr.me:8880/live/138883/138883/892.m3u8?|User-Agent=ExoPlayerLib/2.8.4
+#EXTINF:-1, group-title="FILMES/SERIES", CANAL BRASIL
+http://a.srvbr.me:8880/live/138883/138883/883?|User-Agent=ExoPlayerLib/2.8.4
+#EXTINF:-1, group-title="FILMES/SERIES", CINEMAX
+http://a.srvbr.me:8880/live/138883/138883/1495?|User-Agent=ExoPlayerLib/2.8.4
