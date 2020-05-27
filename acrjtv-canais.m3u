@@ -1,6 +1,10 @@
 #EXTM3U
 
 #### CANAIS FUTUCATV #####
+#EXTINF:-1, group-title="FILMES/SEREIS", AMC [FutucaTV]
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929
+#EXTINF:-1, group-title="FILMES/SEREIS", AMC [FutucaTV] [USER-AGENT]
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929?|UserAgent=Tv Ao Vivo 2020/1.0.0
 #EXTINF:-1, group-title="FILMES/SEREIS", AXN [FutucaTV]
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/935
 #EXTINF:-1, group-title="FILMES/SEREIS", AXN [FutucaTV] [USER-AGENT]
