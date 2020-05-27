@@ -2,9 +2,12 @@
 
 #### FILMES / SERIES #####
 #EXTINF:-1, group-title="FILMES/SERIES", AMC [FutucaTV]
-http://live.goldpremium.xyz/FutucaPRO04/vjd639094ens7654f66/929
+http://live.goldpremium.xyz/FutucaPRO04/vjd639094ens7654f66/929?|user-agent=Tv Ao Vivo 2020/1.0.0
 #EXTINF:-1, group-title="FILMES/SERIES", AMC [SincoTV]
 http://s.tvmaster.net/latino/171717/34708
+#EXTINF:-1, group-title="FILMES/SERIES", AXN [SincoTV]
+http://s.tvmaster.net/latino/171717/34786
+
 
 
 ##### CANAIS ABERTOS #####
