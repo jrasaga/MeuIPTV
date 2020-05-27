@@ -9,7 +9,14 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929?|UserAgent=Tv
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/935
 #EXTINF:-1, group-title="FILMES/SEREIS", AXN [FutucaTV] [USER-AGENT]
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/935?|UserAgent=Tv Ao Vivo 2020/1.0.0
-
+#EXTINF:-1, group-title="FILMES/SEREIS", CANAL BRASIL [FutucaTV]
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929
+#EXTINF:-1, group-title="FILMES/SEREIS", CANAL BRASIL [FutucaTV] [USER-AGENT]
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929?|UserAgent=Tv Ao Vivo 2020/1.0.0
+#EXTINF:-1, group-title="FILMES/SEREIS", CINEMAX [FutucaTV]
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/966
+#EXTINF:-1, group-title="FILMES/SEREIS", CINEMAX [FutucaTV] [USER-AGENT]
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/966?|UserAgent=Tv Ao Vivo 2020/1.0.0
 #### CANAIS SINCOTV #####
 
 
