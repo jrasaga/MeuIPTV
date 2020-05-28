@@ -3,19 +3,21 @@
 #### CANAIS FHD #####
 #EXTINF:-1, group-title="FILMES/SEREIS", AMC
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929
-#EXTINF:-1, group-title="FILMES/SEREIS", AXN [FHD]
+#EXTINF:-1, group-title="FILMES/SEREIS", AXN
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/935
-#EXTINF:-1, group-title="FILMES/SEREIS", CANAL BRASIL [FHD]
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="FILMES/SEREIS", CANAL BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/961
-#EXTINF:-1, group-title="FILMES/SEREIS", CINEMAX [FHD]
+#EXTINF:-1, group-title="FILMES/SEREIS", CINEMAX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/966
-#EXTINF:-1, group-title="FILMES/SEREIS", FOX [FHD]
+#EXTINF:-1, group-title="FILMES/SEREIS", FOX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1020
-#EXTINF:-1, group-title="FILMES/SEREIS", FOX PREMIUM 1 [FHD]
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="FILMES/SEREIS", FOX PREMIUM 1
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1024
-#EXTINF:-1, group-title="FILMES/SEREIS", FOX PREMIUM 2 [FHD]
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="FILMES/SEREIS", FOX PREMIUM 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1026
-#EXTINF:-1, group-title="FILMES/SEREIS", FX [FHD]
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/fxb.png" group-title="FILMES/SEREIS", FX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1035
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO [FHD] [ALT]
-http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1093?|UserAgent=Tv Ao Vivo 2020/1.0.0
+#EXTINF:-1, group-title="FILMES/SEREIS", HBO
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1093
+#EXTINF:-1, group-title="FILMES/SEREIS", HBO 2
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1090
