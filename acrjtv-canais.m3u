@@ -60,7 +60,7 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1230
 
 ##### ESPORTES #####
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES", BAND SPORTS
-http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/945
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/945?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, group-title="ESPORTES", ESPN
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1015
 #EXTINF:-1, tvg-logo="https://logodix.com/logo/2041226.jpg" group-title="ESPORTES", ESPN 2
