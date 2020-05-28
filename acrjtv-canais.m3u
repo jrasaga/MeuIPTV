@@ -1,219 +1,219 @@
 #EXTM3U
 
-#### FILMES / SERIES #####
-#EXTINF:-1, group-title="FILMES/SEREIS", AMC
+#### CANAIS FILMES / SERIES #####
+#EXTINF:-1, group-title="[FILMES / SERIES]", AMC
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", AXN
+#EXTINF:-1, group-title="[FILMES / SERIES]", AXN
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/935?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="FILMES/SEREIS", CANAL BRASIL
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="[FILMES / SERIES]", CANAL BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/961?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", CINEMAX
+#EXTINF:-1, group-title="[FILMES / SERIES]", CINEMAX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/966?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", FOX
+#EXTINF:-1, group-title="[FILMES / SERIES]", FOX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1020?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="FILMES/SEREIS", FOX PREMIUM 1
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="[FILMES / SERIES]", FOX PREMIUM 1
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1024?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="FILMES/SEREIS", FOX PREMIUM 2
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="[FILMES / SERIES]", FOX PREMIUM 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1026?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/fxb.png" group-title="FILMES/SEREIS", FX
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/fxb.png" group-title="[FILMES / SERIES]", FX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1035?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO
+#EXTINF:-1, group-title="[FILMES / SERIES]", HBO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1093?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO 2
+#EXTINF:-1, group-title="[FILMES / SERIES]", HBO 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1090?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbofamily.png" group-title="FILMES/SEREIS", HBO FAMILY
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbofamily.png" group-title="[FILMES / SERIES]", HBO FAMILY
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1092?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbomundib.png" group-title="FILMES/SEREIS", HBO MUNDI
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbomundib.png" group-title="[FILMES / SERIES]", HBO MUNDI
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1095?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="FILMES/SEREIS", HBO PLUS
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="[FILMES / SERIES]", HBO PLUS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1097?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbosignatureb.png" group-title="FILMES/SEREIS", HBO SIGNATURE
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbosignatureb.png" group-title="[FILMES / SERIES]", HBO SIGNATURE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1104?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbopopb.png" group-title="FILMES/SEREIS", HBO POP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbopopb.png" group-title="[FILMES / SERIES]", HBO POP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1101?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="FILMES/SEREIS", HBO XTREME
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="[FILMES / SERIES]", HBO XTREME
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1106??|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megapixb.png" group-title="FILMES/SEREIS", MEGAPIX
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megapixb.png" group-title="[FILMES / SERIES]", MEGAPIX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1118?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", PARAMOUNT CHANNEL
+#EXTINF:-1, group-title="[FILMES / SERIES]", PARAMOUNT CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1139?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", SONY CHANNEL
+#EXTINF:-1, group-title="[FILMES / SERIES]", SONY CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1185?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/space.png" group-title="FILMES/SEREIS", SPACE
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/space.png" group-title="[FILMES / SERIES]", SPACE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1187?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", UNIVERSAL CHANNEL
+#EXTINF:-1, group-title="[FILMES / SERIES]", UNIVERSAL CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1224?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-62-canal-tc-action.png" group-title="FILMES/SEREIS", TC ACTION
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-62-canal-tc-action.png" group-title="[FILMES / SERIES]", TC ACTION
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1200?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-266-canal-tc-cult-hd.png" group-title="FILMES/SEREIS", TC CULT
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-266-canal-tc-cult-hd.png" group-title="[FILMES / SERIES]", TC CULT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1202?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="FILMES/SEREIS", TC PIPOCA
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-264-canal-tc-pipoca-hd.png" group-title="[FILMES / SERIES]", TC PIPOCA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1206?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-61-canal-tc-premium.png" group-title="FILMES/SEREIS", TC PREMIUM
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-61-canal-tc-premium.png" group-title="[FILMES / SERIES]", TC PREMIUM
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1208?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="FILMES/SEREIS", TC TOUCH
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="[FILMES / SERIES]", TC TOUCH
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1210?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="FILMES/SEREIS", TNT
+#EXTINF:-1, group-title="[FILMES / SERIES]", TNT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1212?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/warnerchannel.png" group-title="FILMES/SEREIS", WARNER CHANNEL
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/warnerchannel.png" group-title="[FILMES / SERIES]", WARNER CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1230?|User-Agent=TV Ao Vivo 2020/1.0.0
 
-##### ESPORTES #####
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES", BAND SPORTS
+##### CANAIS ESPORTES #####
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="[ESPORTES]", BAND SPORTS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/945?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, group-title="ESPORTES", ESPN
+#EXTINF:-1, group-title="[ESPORTES]", ESPN
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1015?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://logodix.com/logo/2041226.jpg" group-title="ESPORTES", ESPN 2
+#EXTINF:-1, tvg-logo="https://logodix.com/logo/2041226.jpg" group-title="[ESPORTES]", ESPN 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1009?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://lh4.ggpht.com/_S4ZJD1QD2-g/TA5MWi0rpDI/AAAAAAAABrM/Elck9yMmf6U/espnbr2.jpg" group-title="ESPORTES", ESPN BRASIL
+#EXTINF:-1, tvg-logo="https://lh4.ggpht.com/_S4ZJD1QD2-g/TA5MWi0rpDI/AAAAAAAABrM/Elck9yMmf6U/espnbr2.jpg" group-title="[ESPORTES]", ESPN BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1011?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="ESPORTES", ESPN EXTRA
+#EXTINF:-1, tvg-logo="https://espnpressroom.com/brazil/files/2018/07/RS3682_ESPN_EXTRA_Brasil_CLR_Pos-scr.jpg" group-title="[ESPORTES]", ESPN EXTRA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1013?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="ESPORTES", FOX SPORTS
+#EXTINF:-1, tvg-logo="" group-title="[ESPORTES]", FOX SPORTS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1031?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="ESPORTES", FOX SPORTS 2
+#EXTINF:-1, tvg-logo="" group-title="[ESPORTES]", FOX SPORTS 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1029?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTES", PREMIER CLUBES
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="[ESPORTES]", PREMIER CLUBES
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1115?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTES", PREMIER 1
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="[ESPORTES]", PREMIER 1
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1141??|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTES", PREMIER 2
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="[ESPORTES]", PREMIER 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1143?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTES", PREMIER 3
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="[ESPORTES]", PREMIER 3
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1145?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTES", PREMIER 4
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="[ESPORTES]", PREMIER 4
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1147?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTES", PREMIER 5
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="[ESPORTES]", PREMIER 5
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1149?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="ESPORTES", SPORTV
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="[ESPORTES]", SPORTV
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1192?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="ESPORTES", SPORTV 2
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="[ESPORTES]", SPORTV 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1189?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="ESPORTES", SPORTV 3
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="[ESPORTES]", SPORTV 3
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1191?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="ESPORTES", COMBATE
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="[ESPORTES]", COMBATE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/969?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="ESPORTES", COMBATE [ALT]
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/combate.png" group-title="[ESPORTES]", COMBATE [ALT]
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/970?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://winformativo.files.wordpress.com/2011/11/esporte-interativo.png" group-title="ESPORTES", EI PLUS
+#EXTINF:-1, tvg-logo="https://winformativo.files.wordpress.com/2011/11/esporte-interativo.png" group-title="[ESPORTES]", EI PLUS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1006?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/maxilogoei_max2.jpg" group-title="ESPORTES", EI PLUS 2
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/maxilogoei_max2.jpg" group-title="[ESPORTES]", EI PLUS 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1007?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/dazn.png" group-title="ESPORTES", DAZN 1
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/dazn.png" group-title="[ESPORTES]", DAZN 1
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/980?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/dazn.png" group-title="ESPORTES", DAZN 1
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/dazn.png" group-title="[ESPORTES]", DAZN 1
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/981?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 ##### CANAIS ABERTOS ####
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globosp.png" group-title="CANAIS ABERTOS", GLOBO SP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globosp.png" group-title="[ABERTOS]", GLOBO SP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1068?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globorj.png" group-title="CANAIS ABERTOS", GLOBO RJ
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globorj.png" group-title="[ABERTOS]", GLOBO RJ
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1062?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globodf.png" group-title="CANAIS ABERTOS", GLOBO BRASILIA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globodf.png" group-title="[ABERTOS]", GLOBO BRASILIA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1038?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globo.png" group-title="CANAIS ABERTOS", GLOBO INTERNACIONAL
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globo.png" group-title="[ABERTOS]", GLOBO INTERNACIONAL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1044?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globobh.png" group-title="CANAIS ABERTOS", GLOBO MINAS
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globobh.png" group-title="[ABERTOS]", GLOBO MINAS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1049?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="CANAIS ABERTOS", GLOBO NORDESTE
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="[ABERTOS]", GLOBO NORDESTE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1054?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="CANAIS ABERTOS", GLOBO TV BAHIA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/globone.png" group-title="[ABERTOS]", GLOBO TV BAHIA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1071?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiario.png" group-title="CANAIS ABERTOS", TV DIARIO
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvdiario.png" group-title="[ABERTOS]", TV DIARIO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1072?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/6/66/Tv_verdes_mares.png/revision/latest/scale-to-width-down/340?cb=20140408150355" group-title="CANAIS ABERTOS", VERDES MARES
+#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/rede-globo-logopedia-2/images/6/66/Tv_verdes_mares.png/revision/latest/scale-to-width-down/340?cb=20140408150355" group-title="[ABERTOS]", VERDES MARES
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1081?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="CANAIS ABERTOS", TV GAZETA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="[ABERTOS]", TV GAZETA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1291?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/band.png" group-title="CANAIS ABERTOS", BAND SP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/band.png" group-title="[ABERTOS]", BAND SP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/943?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbtsp.png" group-title="CANAIS ABERTOS", SBT SP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbtsp.png" group-title="[ABERTOS]", SBT SP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1181?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbt.png" group-title="CANAIS ABERTOS", SBT NORDESTE
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbt.png" group-title="[ABERTOS]", SBT NORDESTE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1178?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbt.png" group-title="CANAIS ABERTOS", SBT
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbt.png" group-title="[ABERTOS]", SBT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1181?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbtrj.png" group-title="CANAIS ABERTOS", SBT RJ
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sbtrj.png" group-title="[ABERTOS]", SBT RJ
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1179?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvmg.png" group-title="CANAIS ABERTOS", RECORD MG
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvmg.png" group-title="[ABERTOS]", RECORD MG
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1161?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvdf.png" group-title="CANAIS ABERTOS", RECORD DF
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvdf.png" group-title="[ABERTOS]", RECORD DF
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1159?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvdf.png" group-title="CANAIS ABERTOS", RECORD SP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvdf.png" group-title="[ABERTOS]", RECORD SP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1168?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="CANAIS ABERTOS", RECORD NORDESTE
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="[ABERTOS]", RECORD NORDESTE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1164?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="CANAIS ABERTOS", RECORD RJ
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="[ABERTOS]", RECORD RJ
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1165?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="CANAIS ABERTOS", REDETV SP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="[ABERTOS]", REDETV SP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1174?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="CANAIS ABERTOS", REDETV SP [ALT]
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="[ABERTOS]", REDETV SP [ALT]
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1175?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="CANAIS ABERTOS", FUTURA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="[ABERTOS]", FUTURA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1033?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="CANAIS ABERTOS", CANAL BRASIL
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="[ABERTOS]", CANAL BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/961?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="CANAIS ABERTOS", TV GAZETA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvgazeta.png" group-title="[ABERTOS]", TV GAZETA
 http://live.goldpremium.xyz:80/FutucaPRO04/hgdh66587dhb76fgd65/623?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvbrasil.png" group-title="CANAIS ABERTOS", TV BRASIL
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvbrasil.png" group-title="[ABERTOS]", TV BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/hgdh66587dhb76fgd65/690‌?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcultura.png" group-title="CANAIS ABERTOS", TV CULTURA SP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcultura.png" group-title="[ABERTOS]", TV CULTURA SP
 http://live.goldpremium.xyz:80/tvfree24/tdh2653487509fhdt54/37?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcultura.png" group-title="CANAIS ABERTOS", TV CULTURA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcultura.png" group-title="[ABERTOS]", TV CULTURA
 http://live.goldpremium.xyz:80/FutucaPRO04/hgdh66587dhb76fgd65/767?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvespanha.png" group-title="CANAIS ABERTOS", TVE BRASIL
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvespanha.png" group-title="[ABERTOS]", TVE BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/hgdh66587dhb76fgd65/582?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 ##### CANAIS INFANTIS #####
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", CARTOON NETWORK
+#EXTINF:-1, tvg-logo="" group-title="[INFANTIL]", CARTOON NETWORK
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/962?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/gloob.png" group-title="INFANTIS", GLOOB
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/gloob.png" group-title="[INFANTIL]", GLOOB
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1083?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png" group-title="INFANTIS", ZOOMOO
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png" group-title="[INFANTIL]", ZOOMOO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1234?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="INFANTIS", TOONCAST
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tooncast.png" group-title="[INFANTIL]", TOONCAST
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1216?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", NICKELODEON
+#EXTINF:-1, tvg-logo="" group-title="[INFANTIL]", NICKELODEON
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1134?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", NICK JR
+#EXTINF:-1, tvg-logo="" group-title="[INFANTIL]", NICK JR
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1132?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", DISNEY XD
+#EXTINF:-1, tvg-logo="" group-title="[INFANTIL]", DISNEY XD
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1003?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disneyjuniorb.png" group-title="INFANTIS", DISNEY JR
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/disneyjuniorb.png" group-title="[INFANTIL]", DISNEY JR
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1001?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", DISNEY CHANNEL
+#EXTINF:-1, tvg-logo="" group-title="[INFANTIL]", DISNEY CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/999?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverykids.png" group-title="INFANTIS", DISCOVERY KIDS
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverykids.png" group-title="[INFANTIL]", DISCOVERY KIDS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/987?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", BOOMERANG
+#EXTINF:-1, tvg-logo="" group-title="[INFANTIL]", BOOMERANG
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/960?|User-Agent=TV Ao Vivo 2020/1.0.0
 
-##### CANAIS DOCUMENTARIOS #####
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/investigationb.png" group-title="DOCUMENTARIOS", ID - INVESTIGAÇÃO
+##### CANAIS DOCUMENTÁRIOS #####
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/investigationb.png" group-title="[DOCUMENTÁRIOS]", ID - INVESTIGAÇÃO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1111?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY WORLD
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", DISCOVERY WORLD
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/997?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png" group-title="DOCUMENTARIOS", DISCOVERY THEATER
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png" group-title="[DOCUMENTÁRIOS]", DISCOVERY THEATER
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/991?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY SCIENCE
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", DISCOVERY SCIENCE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/989?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", E!
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", E!
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1005?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", ANIMAL PLANET
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", ANIMAL PLANET
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/931?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", DISCOVERY CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/983?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryhomeandhealth.png" group-title="DOCUMENTARIOS", DISCOVERY H&H
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryhomeandhealth.png" group-title="[DOCUMENTÁRIOS]", DISCOVERY H&H
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/985?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY TURBO
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", DISCOVERY TURBO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/995?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", H2
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", H2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1088?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", HISTORY CHANNEL
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", HISTORY CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1110?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", NAT GEO WILD
+#EXTINF:-1, tvg-logo="" group-title="[DOCUMENTÁRIOS]", NAT GEO WILD
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1128?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeo.png" group-title="DOCUMENTARIOS", NATIONAL GEOGRAFIC
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeo.png" group-title="[DOCUMENTÁRIOS]", NATIONAL GEOGRAFIC
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1130?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 
