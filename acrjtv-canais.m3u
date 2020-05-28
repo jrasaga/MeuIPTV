@@ -139,17 +139,15 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1179?|User-Agent=
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1161?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvdf.png" group-title="[ABERTOS]", RECORD DF
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1159?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvdf.png" group-title="[ABERTOS]", RECORD SP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvsp.png" group-title="[ABERTOS]", RECORD SP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1168?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtv.png" group-title="[ABERTOS]", RECORD NORDESTE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1164?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="[ABERTOS]", RECORD RJ
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1165?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="[ABERTOS]", REDETV SP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redetv.png" group-title="[ABERTOS]", REDETV SP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1174?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="[ABERTOS]", REDETV SP [ALT]
-http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1175?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/recordtvrj.png" group-title="[ABERTOS]", FUTURA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/futura.png" group-title="[ABERTOS]", FUTURA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1033?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="[ABERTOS]", CANAL BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/961?|User-Agent=TV Ao Vivo 2020/1.0.0
