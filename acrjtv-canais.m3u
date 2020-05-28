@@ -85,11 +85,11 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1145?|User-Agent=
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1147?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/premiere.png" group-title="ESPORTES", PREMIER 5
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1149?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="ESPORTES", SPORTV
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv.png" group-title="ESPORTES", SPORTV
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1192?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="ESPORTES", SPORTV 2
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv2.png" group-title="ESPORTES", SPORTV 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1189?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="ESPORTES", SPORTV 3
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/sportv3.png" group-title="ESPORTES", SPORTV 3
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1191?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 
