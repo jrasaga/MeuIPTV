@@ -33,31 +33,29 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1104
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1101
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="FILMES/SEREIS", HBO XTREME
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1106
-#EXTINF:-1, group-title="FILMES/SEREIS", MEGAPIX
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megapixb.png" group-title="FILMES/SEREIS", MEGAPIX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1118
 #EXTINF:-1, group-title="FILMES/SEREIS", PARAMOUNT CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1139
 #EXTINF:-1, group-title="FILMES/SEREIS", SONY CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1185
-#EXTINF:-1, group-title="FILMES/SEREIS", SPACE
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megapixb.png" group-title="FILMES/SEREIS", SPACE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1187
 #EXTINF:-1, group-title="FILMES/SEREIS", UNIVERSAL CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1224
-#EXTINF:-1, group-title="FILMES/SEREIS", TC ACTION
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megapixb.png" group-title="FILMES/SEREIS", TC ACTION
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1200
-#EXTINF:-1, group-title="FILMES/SEREIS", TC CULT
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="FILMES/SEREIS", TC CULT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1202
-#EXTINF:-1, group-title="FILMES/SEREIS", TC PIPOCA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpipocab.png" group-title="FILMES/SEREIS", TC PIPOCA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1206
-#EXTINF:-1, group-title="FILMES/SEREIS", TC PREMIUM
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tcpremiumb.png" group-title="FILMES/SEREIS", TC PREMIUM
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1208
-#EXTINF:-1, group-title="FILMES/SEREIS", TC TOUCH
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tctouchb.png" group-title="FILMES/SEREIS", TC TOUCH
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1210
 #EXTINF:-1, group-title="FILMES/SEREIS", TNT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1212
-#EXTINF:-1, group-title="FILMES/SEREIS", UNIVERSAL CHANNEL
-http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1212
-#EXTINF:-1, group-title="FILMES/SEREIS", WARNER CHANNEL
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/warnerchannel.png" group-title="FILMES/SEREIS", WARNER CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1230
 
 
