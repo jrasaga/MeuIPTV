@@ -239,19 +239,19 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/940?|User-Agent=T
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/968?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 ##### CANAIS RELIGIOSOS #####
-#EXTINF:-1, tvg-logo="" group-title="[RELIGIOSOS]", RIT
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/rit.png" group-title="[RELIGIOSOS]", RIT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1176?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="[RELIGIOSOS]", TV NOVO TEMPO
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvnovotempo.png" group-title="[RELIGIOSOS]", TV NOVO TEMPO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1135?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="[RELIGIOSOS]", TV VERDADE
+#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/a7/cb/ad/a7cbad48a349d8ee23f4d5cc2f23575a.jpg" group-title="[RELIGIOSOS]", TV VERDADE
 http://ocatv.mcgi.me:1935/public/247_br/chunklist_w620329087.m3u8?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="[RELIGIOSOS]", TV CANÇÃO NOVA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvcancaonova.png" group-title="[RELIGIOSOS]", TV CANÇÃO NOVA
 http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="[RELIGIOSOS]", TV ENVAGELIZAR
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="[RELIGIOSOS]", TV ENVAGELIZAR
 http://flash32k.crossdigital.com.br:1935/evangelizar/tv/chunklist_w1777251522.m3u8?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="[RELIGIOSOS]", TV APARECIDA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvaparecida.png" group-title="[RELIGIOSOS]", TV APARECIDA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1218?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="[RELIGIOSOS]", REDE VIDA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/redevida.png" group-title="[RELIGIOSOS]", REDE VIDA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1173?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 
