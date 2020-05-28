@@ -59,17 +59,5 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1212
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1230
 
 
-
-
-
-#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/sleek-xp-software/hbo.png" group-title="FILMES",HBO
-rtmp://94.176.148.234/live?token=iBe3h1g_Pl9a-7aG1aO1PAExpired=1480115544 playpath=verba42f8bab4b71963e45251  swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf  pageUrl=http://abcast.net/abc.php?file=canaldenumerodois&width=468&height=380
- 
-#EXTINF:-1 tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO
-http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/14.ts
- 
-#EXTINF:-1 tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2
-http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/15.ts
-
-
-
+#EXTINF:-1, tvg-logo="www.google.com.br/junior.jpg" group-title="TESTE", TESTE CANAL NOVO
+http://painel.acrjtv.rf.gd/redir.php?acesso=b820977d60ac60f23ee48433dbf467c7&usuario=519780ebfbc5d5665dada359822570d9
