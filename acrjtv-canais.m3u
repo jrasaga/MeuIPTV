@@ -167,11 +167,11 @@ http://live.goldpremium.xyz:80/FutucaPRO04/hgdh66587dhb76fgd65/582?|User-Agent=T
 ##### CANAIS INFANTIS #####
 #EXTINF:-1, tvg-logo="" group-title="INFANTIS", CARTOON NETWORK
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/962?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", GLOOB
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/gloob.png" group-title="INFANTIS", GLOOB
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1083?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", ZOOMOO
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png" group-title="INFANTIS", ZOOMOO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1234?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", TOONCAST
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png" group-title="INFANTIS", TOONCAST
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1216?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="INFANTIS", NICKELODEON
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1134?|User-Agent=TV Ao Vivo 2020/1.0.0
@@ -179,11 +179,11 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1134?|User-Agent=
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1132?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="INFANTIS", DISNEY XD
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1003?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", DISNEY JR
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/zoomoo.png" group-title="INFANTIS", DISNEY JR
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1001?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="INFANTIS", DISNEY CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/999?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="INFANTIS", DISCOVERY KIDS
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverykids.png" group-title="INFANTIS", DISCOVERY KIDS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/987?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="INFANTIS", BOOMERANG
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/960?|User-Agent=TV Ao Vivo 2020/1.0.0
