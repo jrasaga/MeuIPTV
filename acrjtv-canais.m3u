@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“ESPORTES”,[COLOR yellow]» » ESPORTES « «[/COLOR]
+http://0.0.0.0:1234
+
 #### FILMES / SERIES #####
 #EXTINF:-1, group-title="FILMES/SEREIS", AMC
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929
