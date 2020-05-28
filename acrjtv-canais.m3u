@@ -189,11 +189,11 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/987?|User-Agent=T
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/960?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 ##### CANAIS DOCUMENTARIOS #####
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", ID - INVESTIGAÇÃO
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/investigationb.png" group-title="DOCUMENTARIOS", ID - INVESTIGAÇÃO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1111?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY WORLD
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/997?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY THEATER
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoverytheater.png" group-title="DOCUMENTARIOS", DISCOVERY THEATER
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/991?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY SCIENCE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/989?|User-Agent=TV Ao Vivo 2020/1.0.0
@@ -203,7 +203,7 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1005?|User-Agent=
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/931?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/983?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY H&H
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/discoveryhomeandhealth.png" group-title="DOCUMENTARIOS", DISCOVERY H&H
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/985?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", DISCOVERY TURBO
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/995?|User-Agent=TV Ao Vivo 2020/1.0.0
@@ -213,7 +213,7 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1088?|User-Agent=
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1110?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", NAT GEO WILD
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1128?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="DOCUMENTARIOS", NATIONAL GEOGRAFIC
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/natgeo.png" group-title="DOCUMENTARIOS", NATIONAL GEOGRAFIC
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1130?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 
