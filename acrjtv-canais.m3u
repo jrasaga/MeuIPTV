@@ -21,15 +21,15 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1035
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1093
 #EXTINF:-1, group-title="FILMES/SEREIS", HBO 2
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1090
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO FAMILY
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbofamily.png" group-title="FILMES/SEREIS", HBO FAMILY
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1092
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO MUNDI
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbomundib.png" group-title="FILMES/SEREIS", HBO MUNDI
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1095
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO PLUS
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboplus.png" group-title="FILMES/SEREIS", HBO PLUS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1097
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO SIGNATURE
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbosignatureb.png" group-title="FILMES/SEREIS", HBO SIGNATURE
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1104
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO POP
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbopopb.png" group-title="FILMES/SEREIS", HBO POP
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1101
-#EXTINF:-1, group-title="FILMES/SEREIS", HBO XTREME
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="FILMES/SEREIS", HBO XTREME
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1106
