@@ -217,15 +217,15 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1128?|User-Agent=
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1130?|User-Agent=TV Ao Vivo 2020/1.0.0
 
 ##### CANAIS VARIEDADES #####
-#EXTINF:-1, tvg-logo="" group-title="[VARIEDADES]", MUSIC BOX BRASIL
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/musicboxbrazil.png" group-title="[VARIEDADES]", MUSIC BOX BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1124?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="[VARIEDADES]", LIFETIME
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1114?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="[VARIEDADES]", GNT
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/gnt.png" group-title="[VARIEDADES]", GNT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1086?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="" group-title="[VARIEDADES]", MTV
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1121?|User-Agent=TV Ao Vivo 2020/1.0.0
-#EXTINF:-1, tvg-logo="" group-title="[VARIEDADES]", VIVA
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/viva2018.png" group-title="[VARIEDADES]", VIVA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1228?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bis.png" group-title="[VARIEDADES]", BIS (CLIPES)
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/958?|User-Agent=TV Ao Vivo 2020/1.0.0
