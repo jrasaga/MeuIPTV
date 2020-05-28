@@ -59,11 +59,11 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1212
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1230
 
 ##### ESPORTES #####
-#EXTINF:-1, group-title="ESPORTES", BAND SPORTS
+#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="ESPORTES", BAND SPORTS
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/945
 #EXTINF:-1, group-title="ESPORTES", ESPN
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1015
-#EXTINF:-1, group-title="ESPORTES", ESPN BRASIL
+#EXTINF:-1, tvg-logo="https://lh4.ggpht.com/_S4ZJD1QD2-g/TA5MWi0rpDI/AAAAAAAABrM/Elck9yMmf6U/espnbr2.jpg" group-title="ESPORTES", ESPN BRASIL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1011
 
 
