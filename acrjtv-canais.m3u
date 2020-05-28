@@ -1,6 +1,8 @@
 #EXTM3U
 
 #### CANAIS FILMES / SERIES #####
+#EXTINF:-1, group-title="[FILMES / SERIES]", A&E
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/927?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, group-title="[FILMES / SERIES]", AMC
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, group-title="[FILMES / SERIES]", AXN
@@ -11,6 +13,8 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/961?|User-Agent=T
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/966?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, group-title="[FILMES / SERIES]", FOX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1020?|User-Agent=TV Ao Vivo 2020/1.0.0
+#EXTINF:-1, group-title="[FILMES / SERIES]", FOX LIFE
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1022?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="[FILMES / SERIES]", FOX PREMIUM 1
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1024?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxpremium1b.png" group-title="[FILMES / SERIES]", FOX PREMIUM 2
@@ -33,6 +37,8 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1104?|User-Agent=
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1101?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hboxtremeb.png" group-title="[FILMES / SERIES]", HBO XTREME
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1106??|User-Agent=TV Ao Vivo 2020/1.0.0
+#EXTINF:-1, group-title="[FILMES / SERIES]", HBO+
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1099?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/megapixb.png" group-title="[FILMES / SERIES]", MEGAPIX
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1118?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, group-title="[FILMES / SERIES]", PARAMOUNT CHANNEL
