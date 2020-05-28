@@ -33,15 +33,5 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1026?|UserAgent=T
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1035
 #EXTINF:-1, group-title="FILMES/SEREIS", FX [FutucaTV] [USER-AGENT]
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1035?|UserAgent=Tv Ao Vivo 2020/1.0.0
-
-#### CANAIS SINCOTV #####
-
-
-
-
-##### CANAIS BRAZUA PLAY #####
-
-
-
-
-##### CANAIS TV GRATIS #####
+#EXTINF:-1, group-title="FILMES/SEREIS", HBO [FutucaTV] [USER-AGENT]
+http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1093?|UserAgent=Tv Ao Vivo 2020/1.0.0
