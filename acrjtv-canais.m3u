@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id=""tv-logo=“” group-title=“ESPORTES”,[COLOR yellow]» » ESPORTES « «[/COLOR]
-http://0.0.0.0:1234
-
 #### FILMES / SERIES #####
 #EXTINF:-1, group-title="FILMES/SEREIS", AMC
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/929
@@ -48,18 +45,31 @@ http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1187
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1224
 #EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-62-canal-tc-action.png" group-title="FILMES/SEREIS", TC ACTION
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1200
-#EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tccultb.png" group-title="FILMES/SEREIS", TC CULT
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-266-canal-tc-cult-hd.png" group-title="FILMES/SEREIS", TC CULT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1202
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Telecine_Pipoca.png" group-title="FILMES/SEREIS", TC PIPOCA
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-266-canal-tc-cult-hd.png" group-title="FILMES/SEREIS", TC PIPOCA
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1206
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Telecine_Premium.png" group-title="FILMES/SEREIS", TC PREMIUM
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-61-canal-tc-premium.png" group-title="FILMES/SEREIS", TC PREMIUM
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1208
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Telecine_Touch_3.png" group-title="FILMES/SEREIS", TC TOUCH
+#EXTINF:-1, tvg-logo="https://skyassineonline.com.br/img/channels/lg-263-canal-tc-touch-hd.png" group-title="FILMES/SEREIS", TC TOUCH
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1210
 #EXTINF:-1, group-title="FILMES/SEREIS", TNT
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1212
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/warnerchannel.png" group-title="FILMES/SEREIS", WARNER CHANNEL
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/1230
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://icons.iconseeker.com/png/fullsize/sleek-xp-software/hbo.png" group-title="FILMES",HBO
+rtmp://94.176.148.234/live?token=iBe3h1g_Pl9a-7aG1aO1PAExpired=1480115544 playpath=verba42f8bab4b71963e45251  swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf  pageUrl=http://abcast.net/abc.php?file=canaldenumerodois&width=468&height=380
+ 
+#EXTINF:-1 tvg-logo="http://s18.postimg.org/ytb0mpqf9/hbo.png" group-title="FILMES",HBO
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/14.ts
+ 
+#EXTINF:-1 tvg-logo="http://s32.postimg.org/ro8fqkzoh/HBO_2.png" group-title="FILMES",HBO 2
+http://192.99.148.73:8080/live/LuizFernandoCarvalhoVIP_IPTVELOX/8xyECuYtoA/15.ts
 
 
 
