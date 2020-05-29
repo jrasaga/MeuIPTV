@@ -1,39 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="www.google.com.br" group-title="TESTE", COMBATE
-https://acrj-iptv.000webhostapp.com/redir.php?acesso=a092c48e9fa9ecf324b2d3a23d61d891&usuario=8079e164d62cad11c6e9ddfceab3e77b
-
-#EXTINF:-1 tvg-logo="www.google.com.br" group-title="TESTE", FOX PREMIUM 1
-https://acrj-iptv.000webhostapp.com/redir.php?acesso=efb9f094f805a1301df3c08b8f027d8b&usuario=8079e164d62cad11c6e9ddfceab3e77b
-
-#EXTINF:-1 tvg-logo="www.google.com.br" group-title="TESTE", AMC
-https://acrj-iptv.000webhostapp.com/redir.php?acesso=7c52ed5b8820b7dfd90b5a784bac64b3&usuario=8079e164d62cad11c6e9ddfceab3e77b
-
-#EXTINF:-1 tvg-logo="www.google.com.br" group-title="TESTE", CANAL BRASIL
-https://acrj-iptv.000webhostapp.com/redir.php?acesso=f027ab5b77bed97e045a1f70594be022&usuario=8079e164d62cad11c6e9ddfceab3e77b
-
-
-
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo HD" group-title="Canais Abertos",Globo HD | TechRuthes.com
-http://play.starbr.top/live/Ayrton1977/1235689/17121.m3u8
-#EXTINF:-1 tvg-ID="band" tvg-name="Band" group-title="Canais Abertos",Band | TechRuthes.com
-http://play.starbr.top/live/Ayrton1977/1235689/1108.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",Record | TechRuthes.com
-http://play.starbr.top/live/Ayrton1977/1235689/1210.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",SBT | TechRuthes.com
-http://play.starbr.top/live/Ayrton1977/1235689/1208.m3u8
-#EXTINF:-1 tvg-ID="globo" tvg-name="Globo" group-title="Canais Abertos",RedeTV | TechRuthes.com
-http://play.starbr.top/live/Ayrton1977/1235689/963.m3u8
-#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox HD | TechRuthes.com
-http://play.starbr.top/live/Ayrton1977/1235689/1047.m3u8
-#EXTINF:-1 tvg-ID="fox" tvg-name="Fox" group-title="Filmes e Séries",Fox | TechRuthes.com
-http://play.starbr.top/live/Ayrton1977/1235689/1329.m3u8
-
-
-
-
-
-
 #### CANAIS FILMES / SERIES #####
 #EXTINF:-1, group-title="[FILMES / SERIES]", A&E
 http://live.goldpremium.xyz:80/FutucaPRO04/vjd639094ens7654f66/927?|User-Agent=TV Ao Vivo 2020/1.0.0
