@@ -1,15 +1,5 @@
 #EXTM3U
 
-
-
-
-
-#EXTINF:-1, CANAL PARA TESTAR
-http://live.goldpremium.xyz/FutucaPRO09/vjd639094ens7654f66/966
-#EXTINF:-1, CANAL PARA TESTAR COM USER
-http://live.goldpremium.xyz/FutucaPRO09/vjd639094ens7654f66/966?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
-
-
 #### CANAIS FILMES / SERIES #####
 #EXTINF:-1, group-title="[FILMES / SERIES]", A&E
 http://live.goldpremium.xyz/FutucaPRO09/vjd639094ens7654f66/927?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
