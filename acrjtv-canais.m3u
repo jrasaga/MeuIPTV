@@ -1,18 +1,28 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1, CANAL PARA TESTAR
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/966
+#EXTINF:-1, CANAL PARA TESTAR COM USER
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/966?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
+
+
 #### CANAIS FILMES / SERIES #####
 #EXTINF:-1, group-title="[FILMES / SERIES]", A&E
-http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/927?|User-Agent=ExoPlayerLib/2.5.4
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/927?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
 #EXTINF:-1, group-title="[FILMES / SERIES]", AMC
-http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/929?|User-Agent=ExoPlayerLib/2.5.4
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/929?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
 #EXTINF:-1, group-title="[FILMES / SERIES]", AMC TESTE
-http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/929?|User-Agent=Tv Ao Vivo 2020/1.0.0
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/929?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
 #EXTINF:-1, group-title="[FILMES / SERIES]", AXN
-http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/935?|User-Agent=TV Ao Vivo 2020/1.0.0
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/935?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
 #EXTINF:-1, tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/canalbrasilb.png" group-title="[FILMES / SERIES]", CANAL BRASIL
-http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/961?|User-Agent=TV Ao Vivo 2020/1.0.0
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/961?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
 #EXTINF:-1, group-title="[FILMES / SERIES]", CINEMAX
-http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/966?|User-Agent=TV Ao Vivo 2020/1.0.0
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/966?|User-Agent=Tv Ao Vivo 2020/1.0.0 (Linux;Android 8.1.0) ExoPlayerLib/2.5.4
 #EXTINF:-1, group-title="[FILMES / SERIES]", FOX
 http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/1020?|User-Agent=TV Ao Vivo 2020/1.0.0
 #EXTINF:-1, group-title="[FILMES / SERIES]", FOX LIFE
