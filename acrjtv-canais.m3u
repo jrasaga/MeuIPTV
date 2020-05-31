@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1, CANAL PARA TESTAR
+http://live.goldpremium.xyz/FutucaPRO08/vjd639094ens7654f66/966
+
+
 #### CANAIS FILMES / SERIES #####
 #EXTINF:-1, group-title="[FILMES / SERIES]", A&E
 http://live.goldpremium.xyz:80/FutucaPRO05/vjd639094ens7654f66/927?|User-Agent=ExoPlayerLib/2.5.4
