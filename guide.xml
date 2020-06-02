@@ -1437,18 +1437,6 @@
     <icon src="http://tvplus.com.br/images/epg_224/00000000048611001_epg.jpg" />
     <episode-num system="onscreen">S1 E4</episode-num>
   </programme>
-  <programme start="20200602133500 -0300" stop="20200602152500 -0300" channel="FX">
-    <title lang="pt">30 Dias de Noite</title>
-    <desc lang="pt">Um grupo de vampiros espalha o terror numa pequena cidade do Alasca durante o inverno, quando o local fica na mais completa escuridão por 30 dias.(n)</desc>
-    <credits>
-      <director>David Slade</director>
-      <actor>Josh Hartnett</actor>
-      <actor>Melissa George</actor>
-    </credits>
-    <date>2007</date>
-    <category lang="pt">Terror</category>
-    <icon src="http://tvplus.com.br/images/epg_224/0000169681_epg.jpg" />
-  </programme>
   <programme start="20200602152500 -0300" stop="20200602172500 -0300" channel="FX">
     <title lang="pt">Missão Impossível 2</title>
     <desc lang="pt">O agente secreto Ethan Hunt sai à caça de um ambicioso terrorista que ameaça o mundo com um vírus letal.(n)</desc>
@@ -2231,18 +2219,6 @@
     <category lang="pt">Ação</category>
     <icon src="http://tvplus.com.br/images/epg_224/0000784095_epg.jpg" />
   </programme>
-  <programme start="20200602132500 -0300" stop="20200602152500 -0300" channel="PARAMOUNT CHANNEL">
-    <title lang="pt">Contra Tudo e Contra Todos</title>
-    <desc lang="pt">Decidida a se tornar uma grande empresária do boxe, uma mulher aposta todas as suas fichas em um lutador iniciante, mas de grande potencial.(n)</desc>
-    <credits>
-      <director>Charles Dutton</director>
-      <actor>Meg Ryan</actor>
-      <actor>Omar Epps</actor>
-    </credits>
-    <date>2004</date>
-    <category lang="pt">Drama</category>
-    <icon src="http://tvplus.com.br/images/epg_224/0000089042_epg.jpg" />
-  </programme>
   <programme start="20200602152500 -0300" stop="20200602171000 -0300" channel="PARAMOUNT CHANNEL">
     <title lang="pt">Par Perfeito</title>
     <desc lang="pt">Jen conhece Spencer, os dois se apaixonam e casam. Ambos vivem uma vida tranquila, até ela descobrir que Spencer é, na verdade, um assassino.(n)</desc>
@@ -2328,18 +2304,6 @@
     <date>2020</date>
     <category lang="pt">Comédia</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000097858000_epg.jpg" />
-  </programme>
-  <programme start="20200602143500 -0300" stop="20200602153000 -0300" channel="SONY CHANNEL">
-    <title lang="pt">Shark Tank - Temp. 10 - Ep. 4</title>
-    <desc lang="pt">Com Mark Cuban, Barbara Corcoran. O reality show aclamado pela crítica e que revolucionou o mundo do empreendedorismo, durante a qual empreendedores vão ao programa a fim de apresentar suas ideias.(n)</desc>
-    <credits>
-      <actor>Mark Cuban</actor>
-      <actor>Barbara Corcoran</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Reality Show</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000079926_epg.jpg" />
-    <episode-num system="onscreen">S10 E4</episode-num>
   </programme>
   <programme start="20200602153000 -0300" stop="20200602155500 -0300" channel="SONY CHANNEL">
     <title lang="pt">American Housewife - Temp. 2 - Ep. 12</title>
@@ -2939,18 +2903,6 @@
     <category lang="pt">Drama</category>
     <icon src="http://tvplus.com.br/images/epg_224/0000780226_epg.jpg" />
   </programme>
-  <programme start="20200602133500 -0300" stop="20200602153000 -0300" channel="TC TOUCH">
-    <title lang="pt">Amor Impossível</title>
-    <desc lang="pt">Harriet é representante de um sheik que quer introduzir a pesca de salmão no Iêmen.(n)</desc>
-    <credits>
-      <director>Lasse Hallström</director>
-      <actor>Amr Waked</actor>
-      <actor>Ewan McGregor</actor>
-    </credits>
-    <date>2011</date>
-    <category lang="pt">Romance</category>
-    <icon src="http://tvplus.com.br/images/epg_224/0000723273_epg.jpg" />
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602175500 -0300" channel="TC TOUCH">
     <title lang="pt">O Talentoso Ripley</title>
     <desc lang="pt">No fim dos anos 50, Tom Ripley é um jovem fracassado enviado à Itália para resgatar o milionário playboy Dickie Greenleaf. Mas quando a missã.(n)</desc>
@@ -3339,11 +3291,6 @@
     <desc lang="pt">Esportivo. No final da tarde, logo que as atividades dos clubes se encerram, a bola rola na tela do Bandsports. Informação, discussão e projeção sobre o dia do futebol no Brasil e no Mundo.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000072040_epg.jpg" />
   </programme>
-  <programme start="20200602143000 -0300" stop="20200602153000 -0300" channel="ESPN">
-    <title lang="pt">ESPN League</title>
-    <desc lang="pt">Diversos. Análise completa das principais ligas esportivas americanas: NFL (futebol americano), NBA (basquete), MLB (baseball) e NHL (hóquei).(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000082279000_epg.jpg" />
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="ESPN">
     <title lang="pt">Especial: A Despedida De Maradona</title>
     <desc lang="pt">Esportivo. Sinopse Não Disponível.(n)</desc>
@@ -3388,11 +3335,6 @@
     <title lang="pt">Espn Knockout: Boxe Clássico: Jones Vs. Johnson</title>
     <desc lang="pt">Boxe. Sinopse Não Disponível.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/0000597564_epg.jpg" />
-  </programme>
-  <programme start="20200602143000 -0300" stop="20200602153000 -0300" channel="ESPN 2">
-    <title lang="pt">Sportscenter</title>
-    <desc lang="pt">Esportivo. Um mosaico do que acontece no futebol, basquete, vôlei e automobilismo em todas as partes do mundo. 'SportsCenter" está sempre em cima do lance, contando tudo com uma dose de humor.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000072890_epg.jpg" />
   </programme>
   <programme start="20200602153000 -0300" stop="20200602163000 -0300" channel="ESPN 2">
     <title lang="pt">Destaques dos X Games</title>
@@ -3494,11 +3436,6 @@
     <desc lang="pt">Beisebol. Sinopse Não Disponível.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000085205000_epg.jpg" />
   </programme>
-  <programme start="20200602124500 -0300" stop="20200602153000 -0300" channel="FOX SPORTS">
-    <title lang="pt">Fox Sports Rádio - Ao Vivo</title>
-    <desc lang="pt">Esportivo. Debate esportivo ao vivo que traz na TV a qualidade e informalidade do rádio.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000072974000_epg.jpg" />
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602173000 -0300" channel="FOX SPORTS">
     <title lang="pt">Tarde Redonda - Ao Vivo</title>
     <desc lang="pt">Diversos. Um programa para quem respira futebol. De segunda a sexta, às 15h30, com Abel Neto e Lívia Nepomuceno.(n)</desc>
@@ -3534,11 +3471,6 @@
     <title lang="pt">Fox Sports Rádio</title>
     <desc lang="pt">Esportivo. Debate esportivo que traz na TV a qualidade e informalidade do rádio.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000072974000_epg.jpg" />
-  </programme>
-  <programme start="20200602134000 -0300" stop="20200602152500 -0300" channel="FOX SPORTS 2">
-    <title lang="pt">VT - Paderborn x Borussia Dortmund</title>
-    <desc lang="pt">Futebol. Sinopse Não Disponível.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/0000595701_epg.jpg" />
   </programme>
   <programme start="20200602152500 -0300" stop="20200602182500 -0300" channel="FOX SPORTS 2">
     <title lang="pt">WWE Monday Night Raw</title>
@@ -3696,11 +3628,6 @@
     <title lang="pt">SporTV Retrô</title>
     <desc lang="pt">Diversos. Sinopse Não Disponível.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/0000595700_epg.jpg" />
-  </programme>
-  <programme start="20200602133000 -0300" stop="20200602153000 -0300" channel="SPORTV 3">
-    <title lang="pt">Bem, Amigos!</title>
-    <desc lang="pt">Esportivo. Galvão Bueno comanda um dos mais tradicionais programas do SporTV. Toda segunda ao vivo à 21hs, ele recebe jogadores, técnicos e personalidades do esporte para um bate-papo animado entre amigos.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000071225000_epg.jpg" />
   </programme>
   <programme start="20200602153000 -0300" stop="20200602171000 -0300" channel="SPORTV 3">
     <title lang="pt">Filme Oficial da Copa do Mundo da Fifa: Copa de 82</title>
@@ -3992,16 +3919,6 @@
     <date>1997</date>
     <category lang="pt">Cinema</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000077690_epg.jpg" />
-  </programme>
-  <programme start="20200602152000 -0300" stop="20200602153000 -0300" channel="FUTURA">
-    <title lang="pt">Simplex - Ep. 2</title>
-    <desc lang="pt">De Florent Durth. Inês está concorrendo à eleição para editora do website da escola. Para evitar uma contagem entediante de votos, Evaristo sugere que ela entreviste um número limitado de estudantes.(n)</desc>
-    <credits>
-      <director>Florent Durth</director>
-    </credits>
-    <date>2016</date>
-    <category lang="pt">Animação</category>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
   </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="FUTURA">
     <title lang="pt">Futura Profissão: O Novo Mundo - Ep. 9</title>
@@ -4298,11 +4215,6 @@
     <category lang="pt">Comédia</category>
     <icon src="http://tvplus.com.br/images/epg_224/0000599917_epg.jpg" />
   </programme>
-  <programme start="20200602151500 -0300" stop="20200602153000 -0300" channel="TV BRASIL">
-    <title lang="pt">As Novas Missões do Peixonauta</title>
-    <desc lang="pt">Animação. Peixonauta, Marina e Zico estão obcecados com objetos que querem comprar e acabam se distraindo, não dando atenção à Pop. Agora, cabe ao Doutor Jardim, ao Juca e ao Pedro a missão de abrir os olhos deles.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000071625_epg.jpg" />
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602154500 -0300" channel="TV BRASIL">
     <title lang="pt">O Show da Luna!</title>
     <desc lang="pt">Infantil. A família de Luna está na África, e eles veem algo incrível: uma girafa bem do lado deles. O trio começa a se perguntar como o pescoço da girafa ficou tão comprido! O que está acontecendo aqui?(n)</desc>
@@ -4565,17 +4477,6 @@
     <desc lang="pt">Cultural. O programa Café Filosófico é uma parceria do Instituto CPFL com a TV Cultura e tem como objetivo compartilhar as ideias de grandes pensadoras e pensadores contemporâneos.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000070694_epg.jpg" />
   </programme>
-  <programme start="20200602144500 -0300" stop="20200602153000 -0300" channel="TVE BRASIL">
-    <title lang="pt">Saber y Ganar</title>
-    <desc lang="pt">Com Jordi Hurtado, Juanjo Cardenal. Programa cujo objetivo é a divulgação de informação cultural. Três concursantes lutam entre si em diferentes provas, demonstrando seus conhecimentos e agilidade mental.(n)</desc>
-    <credits>
-      <actor>Jordi Hurtado</actor>
-      <actor>Juanjo Cardenal</actor>
-    </credits>
-    <date>1997</date>
-    <category lang="pt">Diversos</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000085454_epg.jpg" />
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="TVE BRASIL">
     <title lang="pt">Aqui La Tierra</title>
     <desc lang="pt">Revista de informação meteorológica.(n)</desc>
@@ -4648,19 +4549,6 @@
     <date>2015</date>
     <category lang="pt">Diversos</category>
     <icon src="http://tvplus.com.br/images/epg_224/0000426026_epg.jpg" />
-  </programme>
-  <programme start="20200602151100 -0300" stop="20200602152600 -0300" channel="CARTOON NETWORK">
-    <title lang="pt">Os Jovens Titãs em Ação - Temp. 4 - Ep. 207</title>
-    <desc lang="pt">Um flashback revela como Robin formou os Jovens Titãs.(n)</desc>
-    <credits>
-      <director>Luke Cormican</director>
-      <actor>Vozes de Greg Cipes</actor>
-      <actor>Scott Menville</actor>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Animação</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000072363_epg.jpg" />
-    <episode-num system="onscreen">S4 E207</episode-num>
   </programme>
   <programme start="20200602152600 -0300" stop="20200602153700 -0300" channel="CARTOON NETWORK">
     <title lang="pt">Os Jovens Titãs em Ação - Temp. 4 - Ep. 208</title>
@@ -5277,16 +5165,6 @@
     <category lang="pt">Animação</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000094278001_epg.jpg" />
     <episode-num system="onscreen">S1 E7</episode-num>
-  </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="GLOOB">
-    <title lang="pt">Miraculous - As Aventuras de Ladybug - Ep. 21</title>
-    <desc lang="pt">De Thomas Astruc. Juleka sempre sofreu da maldição da foto de classe. Neste ano, ela se transforma em Reflekta, determinada a fazer de tudo para ser notada e transformando todos em sua imagem.(n)</desc>
-    <credits>
-      <director>Thomas Astruc</director>
-    </credits>
-    <date>2013</date>
-    <category lang="pt">Infantil</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000081960000_epg.jpg" />
   </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="GLOOB">
     <title lang="pt">Bugados - Ep. 26</title>
@@ -6024,11 +5902,6 @@
     <desc lang="pt">Desenho. A série conta a história de um filhote de lobo marinho que se perde da mãe na correnteza, durante uma viagem das águas gélidas do sul antártico, rumo ao norte temperado.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000094493_epg.jpg" />
   </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="TOONCAST">
-    <title lang="pt">Popeye</title>
-    <desc lang="pt">Animação. Vencendo os perigos, brigando com malvados, salvando a namorada, soltando seus jargões, ou simplesmente curtindo sua vida no mar, Popeye vem agradando crianças e adultos de diversas gerações.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000074489_epg.jpg" />
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="TOONCAST">
     <title lang="pt">Mgm Cartoons</title>
     <desc lang="pt">Animação. Sinopse Não Disponível.(n)</desc>
@@ -6207,18 +6080,6 @@
     <date>2011</date>
     <category lang="pt">Animação</category>
     <icon src="http://tvplus.com.br/images/epg_224/0000599974_epg.jpg" />
-  </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="NICKELODEON">
-    <title lang="pt">The Thundermans - Temp. 1 - Ep. 8</title>
-    <desc lang="pt">Com Rosa Blasi, Jack Griffo. Quando Phoebe se compromete com muitas atividades, Max a ajuda, criando um clone dela para que fique em dois lugares ao mesmo tempo.(n)</desc>
-    <credits>
-      <actor>Rosa Blasi</actor>
-      <actor>Jack Griffo</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="pt">Comédia</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000073079_epg.jpg" />
-    <episode-num system="onscreen">S1 E8</episode-num>
   </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="NICKELODEON">
     <title lang="pt">The Thundermans - Temp. 1 - Ep. 17</title>
@@ -6412,19 +6273,6 @@
     <category lang="pt">Comédia</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000078792_epg.jpg" />
     <episode-num system="onscreen">S3 E4</episode-num>
-  </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="NICK JR">
-    <title lang="pt">Rusty Rivets - Temp. 1 - Ep. 6</title>
-    <desc lang="pt">Quando Rusty encontra um antigo mapa de pirata, a gangue acaba descobrindo muito mais do que um tesouro.(n)</desc>
-    <credits>
-      <director>Brad Ferguson</director>
-      <actor>Vozes de Kyle Breitkopf</actor>
-      <actor>Ava Preston</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="pt">Animação</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000081921_epg.jpg" />
-    <episode-num system="onscreen">S1 E6</episode-num>
   </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="NICK JR">
     <title lang="pt">Blaze e Os Monster Machine - Temp. 5 - Ep. 2</title>
@@ -6804,13 +6652,6 @@
     <desc lang="pt">Animação. As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do "Ninja Nomicon", e a ajuda do seu melhor amigo.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000068577_epg.jpg" />
   </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="DISNEY CHANNEL">
-    <title lang="pt">Acampados</title>
-    <desc lang="pt">Emma, Ravi, e Zuri Ross saem de Nova York, e vão para um acampamento de verão em Maine, chamado Acampamento Kikiwaka, o lugar onde seus pais se conheceram quando adolescentes.(n)</desc>
-    <date>2015</date>
-    <category lang="pt">Infantil</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000079722_epg.jpg" />
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="DISNEY CHANNEL">
     <title lang="pt">Andi Mack</title>
     <desc lang="pt">Com Peyton Elizabeth Lee, Joshua Rush. Andi Mack é uma história contemporânea sobre uma garota que está tentando determinar as muitas maneiras incríveis de poder viver sua vida.(n)</desc>
@@ -6956,11 +6797,6 @@
     <date>2018</date>
     <category lang="pt">Comédia</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000094991_epg.jpg" />
-  </programme>
-  <programme start="20200602151800 -0300" stop="20200602152900 -0300" channel="DISCOVERY KIDS">
-    <title lang="pt">Charlie, O Entrevistador de Coisas - Ep. 8</title>
-    <desc lang="pt">Comédia. Por que esse sabão tem um cheiro esquisito? É verdade que o Pato de Borracha flutua durante dias antes de afundar? O Chuveiro e a Banheira não poderiam ficar de fora com um tema tão limpo e fresquinho.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000088725000_epg.jpg" />
   </programme>
   <programme start="20200602152900 -0300" stop="20200602154000 -0300" channel="DISCOVERY KIDS">
     <title lang="pt">Charlie, O Entrevistador de Coisas - Ep. 3</title>
@@ -7273,26 +7109,6 @@
     <title lang="pt">Miss Moon - Ep. 29</title>
     <desc lang="pt">Animação. Na noite do Halloween, a bruxa Dezhilba decide vir à Terra para pegar algumas crianças. Quando aterrissa bem no quintal dos MacGuffles, começa uma batalha mágica entre Miss Moon e a invasora.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000080402000_epg.jpg" />
-  </programme>
-  <programme start="20200602151400 -0300" stop="20200602152700 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Animação. Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000081059000_epg.jpg" />
-  </programme>
-  <programme start="20200602152700 -0300" stop="20200602153000 -0300" channel="BOOMERANG">
-    <title lang="pt">Grizzy e os Lemmings</title>
-    <desc lang="pt">Animação. Grizzy e os Lemmings protagonizam um combate impiedoso, em meio a uma atmosfera totalmente maluca, na qual os dois adversários tentam constantemente passar a perna um no outro!(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000081059000_epg.jpg" />
-  </programme>
-  <programme start="20200602153000 -0300" stop="20200602153400 -0300" channel="BOOMERANG">
-    <title lang="pt">A Turma da Mônica</title>
-    <desc lang="pt">De Maurício de Souza. Mônica, Cebolinha, Cascão, Magali e seus amiguinhos formam um grupo de crianças alegres e divertidas que aprontam muitas confusões e vivem grandes aventuras.(n)</desc>
-    <credits>
-      <director>Maurício de Souza</director>
-    </credits>
-    <date>2002</date>
-    <category lang="pt">Animação</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000022702_epg.jpg" />
   </programme>
   <programme start="20200602153400 -0300" stop="20200602154100 -0300" channel="BOOMERANG">
     <title lang="pt">Grizzy e os Lemmings</title>
@@ -8403,12 +8219,6 @@
     <icon src="http://tvplus.com.br/images/epg_224/00000000076716_epg.jpg" />
     <episode-num system="onscreen">S2 E9</episode-num>
   </programme>
-  <programme start="20200602143600 -0300" stop="20200602152700 -0300" channel="ANIMAL PLANET">
-    <title lang="pt">Perdido no Sudeste Asiático - Temp. 1 - Ep. 1</title>
-    <desc lang="pt">Documentário. Frank tenta desvendar o mito do dragão, mas não encontra apenas "dragões", lagartos e monitores e fica de frente com um grande felino, o tigre-asiático.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/0000599881_epg.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-  </programme>
   <programme start="20200602152700 -0300" stop="20200602161800 -0300" channel="ANIMAL PLANET">
     <title lang="pt">Indochina Selvagem - Temp. 1 - Ep. 5</title>
     <desc lang="pt">Documentário. Um país moldado por forças brutas, onde animais encaram desafios para sobreviver, a Tailândia é o lugar em que tigres ainda são o predador alfa e macacos evoluíram rapidamente.(n)</desc>
@@ -8594,19 +8404,6 @@
     <desc lang="pt">Reality Show. Em um experimento único, Bear Grylls tenta descobrir se a mulher e o homem moderno são engenhosos e resistentes o bastante para sobreviver absolutamente sozinhos em uma ilha.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000078009_epg.jpg" />
     <episode-num system="onscreen">S5 E1</episode-num>
-  </programme>
-  <programme start="20200602143500 -0300" stop="20200602152600 -0300" channel="Discovery H&amp;H">
-    <title lang="pt">Ame-a ou Deixe-a - Temp. 8 - Ep. 12</title>
-    <desc lang="pt">Neste episódio, Hilary enfrenta o desafio de ampliar e modernizar a decoração da primeira casa de uma família de quatro pessoas.(n)</desc>
-    <credits>
-      <director>Richard Yearwood</director>
-      <actor>Hilary Farr</actor>
-      <actor>David Visentin</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="pt">Comportamento</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000073549_epg.jpg" />
-    <episode-num system="onscreen">S8 E12</episode-num>
   </programme>
   <programme start="20200602152600 -0300" stop="20200602161800 -0300" channel="Discovery H&amp;H">
     <title lang="pt">Junior Masterchef EUA - Temp. 6 - Ep. 7</title>
@@ -9156,14 +8953,6 @@
     <category lang="pt">Reality Show</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000075353_epg.jpg" />
   </programme>
-  <programme start="20200602145000 -0300" stop="20200602153500 -0300" channel="NATIONAL GEOGRAFIC">
-    <title lang="pt">Mistérios da Ilha de Páscoa</title>
-    <desc lang="pt">Documentário. De John Bredar. Este pequeno e remoto pedaço de terra no meio do Pacífico, a Ilha de Páscoa, ou Rapa Nui, tem deixado o mundo curioso desde que os primeiros europeus chegaram lá em 1722.(n)</desc>
-    <credits>
-      <director>John Bredar</director>
-    </credits>
-    <icon src="http://tvplus.com.br/images/epg_224/0000603243_epg.jpg" />
-  </programme>
   <programme start="20200602153500 -0300" stop="20200602162000 -0300" channel="NATIONAL GEOGRAFIC">
     <title lang="pt">Construções Extraordinárias - Temp. 1 - Ep. 6</title>
     <desc lang="pt">De Joby Lubman. Veneza é atingida por quase 100 inundações por ano, destruindo gradualmente o tecido desta cidade histórica, mas agora os engenheiros estão construindo uma vasta barreira marítima.(n)</desc>
@@ -9266,11 +9055,6 @@
     </credits>
     <icon src="http://tvplus.com.br/images/epg_224/00000000081053_epg.jpg" />
     <episode-num system="onscreen">S6 E1</episode-num>
-  </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="MUSIC BOX BRASIL">
-    <title lang="pt">Jukebox</title>
-    <desc lang="pt">Musical. O Jukebox é o programa de videoclipes do Music Box Brazil. Artistas brasileiros de todos os gêneros (pagode, rock, samba, mpb, sertanejo, indie, pop rock e muito mais!) estão no Jukebox.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000082192_epg.jpg" />
   </programme>
   <programme start="20200602153000 -0300" stop="20200602183000 -0300" channel="MUSIC BOX BRASIL">
     <title lang="pt">Infomercial</title>
@@ -9610,17 +9394,6 @@
     <icon src="http://tvplus.com.br/images/epg_224/00000000072280_epg.jpg" />
     <episode-num system="onscreen">S7 E4</episode-num>
   </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="MTV">
-    <title lang="pt">De Férias Com o Ex Brasil: EEEx Lá em Casa - Temp. 6 - Ep. 2</title>
-    <desc lang="pt">Matheus Mazzafera está em casa para comandar o De Férias com o Ex Brasil: EEEx Lá em Casa!(n)</desc>
-    <credits>
-      <director>Cruanes</director>
-    </credits>
-    <date>2020</date>
-    <category lang="pt">Reality Show</category>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-    <episode-num system="onscreen">S6 E2</episode-num>
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602164000 -0300" channel="MTV">
     <title lang="pt">De Férias Com o Ex Brasil - Temp. 6 - Ep. 2</title>
     <desc lang="pt">Em De Férias com o Ex Brasil, dez solteiros vão passar férias em um paraíso tropical.(n)</desc>
@@ -9711,11 +9484,6 @@
     <category lang="pt">Reality Show</category>
     <icon src="http://tvplus.com.br/images/epg_224/00000000080852_epg.jpg" />
     <episode-num system="onscreen">S6 E2</episode-num>
-  </programme>
-  <programme start="20200602143000 -0300" stop="20200602153000 -0300" channel="VIVA">
-    <title lang="pt">Brega &amp; Chique - Ep. 90</title>
-    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/0000599939_epg.jpg" />
   </programme>
   <programme start="20200602153000 -0300" stop="20200602161500 -0300" channel="VIVA">
     <title lang="pt">Chocolate com Pimenta - Temp. 1 - Ep. 38</title>
@@ -9825,17 +9593,6 @@
     <title lang="pt">O Clone - Ep. 152</title>
     <desc lang="pt">O Clone conta a história de amor entre a muçulmana Jade e o brasileiro Lucas. A novela também aborda cultura árabe, clonagem humana e dependência química.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000064028000_epg.jpg" />
-  </programme>
-  <programme start="20200602150000 -0300" stop="20200602152700 -0300" channel="BIS (CLIPES)">
-    <title lang="pt">Lounge - Temp. 3 - Ep. 6</title>
-    <desc lang="pt">De Roberto T. Oliveira. Grandes sucessos de músicas nacionais e internacionais, em que cantoras interpretam estes variados estilos musicais em um arranjo mais tranquilo e relaxante, no estilo Jazz.(n)</desc>
-    <credits>
-      <director>Roberto T</director>
-    </credits>
-    <date>2018</date>
-    <category lang="pt">Musical</category>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000080468_epg.jpg" />
-    <episode-num system="onscreen">S3 E6</episode-num>
   </programme>
   <programme start="20200602152700 -0300" stop="20200602155700 -0300" channel="BIS (CLIPES)">
     <title lang="pt">Samba Pra Sempre - Temp. 1 - Ep. 2</title>
@@ -10163,20 +9920,6 @@
     <desc lang="pt">Documentário. No dia 06 de junho de 1944 as tropas aliadas desembarcaram na Normandia para libertar a França do domínio nazista.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/00000000096999_epg.jpg" />
   </programme>
-  <programme start="20200602140500 -0300" stop="20200602153000 -0300" channel="RIT">
-    <title lang="pt">Nosso Programa</title>
-    <desc lang="pt">Diversos. Nosso programa: informação, curiosidades, bate-papo e muito mais, tudo preparado com muito carinho para sua diversão. Matérias engraçadas e emocionantes com a repórter Wanderleia Farias.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000087235_epg.jpg" />
-  </programme>
-  <programme start="20200602153000 -0300" stop="20200602153500 -0300" channel="RIT">
-    <title lang="pt">Semeando a Fé</title>
-    <desc lang="pt">Religião. Com Missionário R.R.Soares. Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares.(n)</desc>
-    <credits>
-      <actor>Missionário R.R.Soares. Aprenda a desfrutar das bênçãos de Deus. Todos os dias</actor>
-      <actor>antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R</actor>
-    </credits>
-    <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
   <programme start="20200602153500 -0300" stop="20200602170000 -0300" channel="RIT">
     <title lang="pt">Consulta ao Doutor</title>
     <desc lang="pt">Saúde. A jornalista Denise Luque entrevista profissionais das mais variadas especialidades das áreas de saúde e direito para esclarecer todas as suas dúvidas sobre o tema do dia.(n)</desc>
@@ -10223,11 +9966,6 @@
       <director>Nilson Teréncio</director>
     </credits>
     <icon src="http://tvplus.com.br/images/indisponivel.jpg" />
-  </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="TV CANÇÃO NOVA">
-    <title lang="pt">Terço da Misericórdia</title>
-    <desc lang="pt">Religião. Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000082300_epg.jpg" />
   </programme>
   <programme start="20200602153000 -0300" stop="20200602160000 -0300" channel="TV CANÇÃO NOVA">
     <title lang="pt">Ofício da Imaculada Conceição</title>
@@ -10303,11 +10041,6 @@
     </credits>
     <icon src="http://tvplus.com.br/images/epg_224/00000000083033_epg.jpg" />
   </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="TV APARECIDA">
-    <title lang="pt">Visita ao Santíssimo e Consagração</title>
-    <desc lang="pt">Religião. Assista à visita ao Santíssimo e à Consagração à Nossa Senhora, ao vivo, direto da Basílica Velha. Possui recurso CC.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/00000000092561_epg.jpg" />
-  </programme>
   <programme start="20200602153000 -0300" stop="20200602170000 -0300" channel="TV APARECIDA">
     <title lang="pt">Santa Receita - Ao Vivo</title>
     <desc lang="pt">Entrevista. Claudete Troiano recebe convidados especiais e fala sobre saúde, moda, comportamento, artesantos, receitas e muito mais.(n)</desc>
@@ -10357,11 +10090,6 @@
     <title lang="pt">Medalhão.com</title>
     <desc lang="pt">Televendas. Infocomercial.(n)</desc>
     <icon src="http://tvplus.com.br/images/epg_224/0000537831_epg.jpg" />
-  </programme>
-  <programme start="20200602150000 -0300" stop="20200602153000 -0300" channel="REDE VIDA">
-    <title lang="pt">Missa da Hora da Família</title>
-    <desc lang="pt">Religião. Sinopse Não Disponível.(n)</desc>
-    <icon src="http://tvplus.com.br/images/epg_224/0000598264_epg.jpg" />
   </programme>
   <programme start="20200602153000 -0300" stop="20200602161500 -0300" channel="REDE VIDA">
     <title lang="pt">Hora da Família</title>
