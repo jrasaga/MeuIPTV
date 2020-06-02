@@ -1,0 +1,8 @@
+#EXTM3U
+
+
+
+#EXTINF:-1, TVG-ID="" TVG-NAME="" TVG-LOGO="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" GROUP-TITLE="", REDETV TS
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/media_w452988627_b831072_DVR_3207219.ts
+#EXTINF:-1, TVG-ID="" TVG-NAME="" TVG-LOGO="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" GROUP-TITLE="", REDETV M3U8
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w703445778_b2793472_DVR.m3u8
